@@ -1,0 +1,2158 @@
+=============================================================            
+Category :  Fox                                                          
+=============================================================            
+Freddy The Fox                 ==>        Base.FreddyFox                            
+
+=============================================================            
+Category :  Beaver                                                       
+=============================================================            
+Jacques The Beaver             ==>        Base.JacquesBeaver                        
+
+=============================================================            
+Category :  Badger                                                       
+=============================================================            
+Boris The Badger               ==>        Base.BorisBadger                          
+
+=============================================================            
+Category :  Trapping                                                     
+=============================================================            
+Snare Trap                     ==>        Base.TrapSnare                            
+Cage Trap                      ==>        Base.TrapCage                             
+Mouse Trap                     ==>        Base.TrapMouse                            
+Trap Box                       ==>        Base.TrapBox                              
+Trap Crate                     ==>        Base.TrapCrate                            
+Stick Trap                     ==>        Base.TrapStick                            
+
+=============================================================            
+Category :  Cooking                                                      
+=============================================================            
+Baking Tray                    ==>        Base.BakingTray                           
+Kettle                         ==>        Base.Kettle                               
+Empty Cyan Mug                 ==>        Base.Mugl                                 
+Empty Red Mug                  ==>        Base.MugRed                               
+Empty White Mug                ==>        Base.MugWhite                             
+Empty Spiffo Mug               ==>        Base.MugSpiffo                            
+Cooking Pot                    ==>        Base.Pot                                  
+Roasting Pan                   ==>        Base.RoastingPan                          
+Can Opener                     ==>        Base.TinOpener                            
+Saucepan                       ==>        Base.Saucepan                             
+Meat Cleaver                   ==>        Base.MeatCleaver                          
+Rolling Pin                    ==>        Base.RollingPin                           
+Frying Pan                     ==>        Base.Pan                                  
+Griddle Pan                    ==>        Base.GridlePan                            
+Ice Pick                       ==>        Base.IcePick                              
+Fork                           ==>        Base.Fork                                 
+Spoon                          ==>        Base.Spoon                                
+Butter Knife                   ==>        Base.ButterKnife                          
+Bread Knife                    ==>        Base.BreadKnife                           
+Kitchen Knife                  ==>        Base.KitchenKnife                         
+Box of Jars                    ==>        Base.BoxOfJars                            
+Baking Soda                    ==>        Base.BakingSoda                           
+Baking Pan                     ==>        Base.BakingPan                            
+Empty Jar                      ==>        Base.EmptyJar                             
+Jar Lid                        ==>        Base.JarLid                               
+Teacup                         ==>        Base.Teacup                               
+Gravy Mix                      ==>        Base.GravyMix                             
+Pancake Mix                    ==>        Base.PancakeMix                           
+Muffin Tray                    ==>        Base.MuffinTray                           
+Oven Mitt                      ==>        Base.OvenMitt                             
+Grill Brush                    ==>        Base.GrillBrush                           
+Carving Fork                   ==>        Base.CarvingFork                          
+KitchenTongs                   ==>        Base.KitchenTongs                         
+Spatula                        ==>        Base.Spatula                              
+
+=============================================================            
+Category :  Water                                                        
+=============================================================            
+Bucket of Water                ==>        Base.BucketWaterFull                      
+Kettle of Water                ==>        Base.FullKettle                           
+Water Bottle                   ==>        Base.MayonnaiseWaterFull                  
+Water Bottle                   ==>        Base.RemouladeWaterFull                   
+Watering Can (Full)            ==>        Base.WateredCanFull                       
+Water Bottle                   ==>        Base.WaterBottleFull                      
+Bowl of Water                  ==>        Base.WaterBowl                            
+Mug of Water                   ==>        Base.WaterMug                             
+Teacup of Water                ==>        Base.WaterTeacup                          
+Mug of Water                   ==>        Base.WaterMugRed                          
+Mug of Water                   ==>        Base.WaterMugWhite                        
+Mug of Water                   ==>        Base.WaterMugSpiffo                       
+Water Bottle                   ==>        Base.WaterPopBottle                       
+Cooking Pot with Water         ==>        Base.WaterPot                             
+Saucepan with Water            ==>        Base.WaterSaucepan                        
+Water Bottle                   ==>        Base.WhiskeyWaterFull                     
+Water Bottle                   ==>        Base.BeerWaterFull                        
+Milk                           ==>        Base.Milk                                 
+Red Wine                       ==>        Base.Wine2                                
+Plastic Cup of Water           ==>        Base.PlasticCupWater                      
+Paint Bucket With Water        ==>        Base.WaterPaintbucket                     
+
+=============================================================            
+Category :  ToolWeapon                                                   
+=============================================================            
+Hand Axe                       ==>        Base.HandAxe                              
+Hand Scythe                    ==>        Base.HandScythe                           
+Pipe Wrench                    ==>        Base.PipeWrench                           
+PickAxe Handle                 ==>        Base.PickAxeHandle                        
+Club Hammer                    ==>        Base.ClubHammer                           
+Ball Peen Hammer               ==>        Base.BallPeenHammer                       
+Wooden Mallet                  ==>        Base.WoodenMallet                         
+Wrench                         ==>        Base.Wrench                               
+Hammer                         ==>        Base.Hammer                               
+Stone Hammer                   ==>        Base.HammerStone                          
+Crowbar                        ==>        Base.Crowbar                              
+Raw Axe                        ==>        Base.AxeStone                             
+Snow Shovel                    ==>        Base.SnowShovel                           
+PickAxe                        ==>        Base.PickAxe                              
+Axe                            ==>        Base.Axe                                  
+Wood Axe                       ==>        Base.WoodAxe                              
+Sledgehammer                   ==>        Base.Sledgehammer                         
+Sledgehammer                   ==>        Base.Sledgehammer2                        
+Hand Fork                      ==>        Base.HandFork                             
+Screwdriver                    ==>        Base.Screwdriver                          
+
+=============================================================            
+Category :  Fishing                                                      
+=============================================================            
+Fishing Rod                    ==>        Base.CraftedFishingRod                    
+Fishing Rod                    ==>        Base.CraftedFishingRodTwineLine           
+Fishing Rod                    ==>        Base.FishingRod                           
+Fishing Rod Without line       ==>        Base.FishingRodBreak                      
+Fishing Rod                    ==>        Base.FishingRodTwineLine                  
+Fishing Tackle                 ==>        Base.FishingTackle                        
+Fishing Tackle                 ==>        Base.FishingTackle2                       
+Fishing Line                   ==>        Base.FishingLine                          
+Fishing Net Trap               ==>        Base.FishingNet                           
+Broken Fishing Net Trap        ==>        Base.BrokenFishingNet                     
+
+=============================================================            
+Category :  Bag                                                          
+=============================================================            
+Golf Bag                       ==>        Base.Bag_GolfBag                          
+School Bag                     ==>        Base.Bag_Schoolbag                        
+Hiking Bag                     ==>        Base.Bag_NormalHikingBag                  
+Big Hiking Bag                 ==>        Base.Bag_BigHikingBag                     
+Backpack                       ==>        Base.Bag_SurvivorBag                      
+Large Backpack                 ==>        Base.Bag_ALICEpack                        
+Military Backpack              ==>        Base.Bag_ALICEpack_Army                   
+Duffel Bag                     ==>        Base.Bag_WeaponBag                        
+Duffel Bag                     ==>        Base.Bag_InmateEscapedBag                 
+Duffel Bag                     ==>        Base.Bag_MoneyBag                         
+Duffel Bag                     ==>        Base.Bag_WorkerBag                        
+Duffel Bag                     ==>        Base.Bag_DuffelBag                        
+Duffel Bag                     ==>        Base.Bag_DuffelBagTINT                    
+Fanny Pack (Front)             ==>        Base.Bag_FannyPackFront                   
+Fanny Pack (Back)              ==>        Base.Bag_FannyPackBack                    
+Satchel                        ==>        Base.Bag_Satchel                          
+Toolbox                        ==>        Base.Bag_JanitorToolbox                   
+Duffel Bag                     ==>        Base.Bag_ShotgunBag                       
+Duffel Bag                     ==>        Base.Bag_ShotgunSawnoffBag                
+Duffel Bag                     ==>        Base.Bag_ShotgunDblBag                    
+Duffel Bag                     ==>        Base.Bag_ShotgunDblSawnoffBag             
+Bowling Ball Bag               ==>        Base.Bag_BowlingBallBag                   
+
+=============================================================            
+Category :  VehicleMaintenance                                           
+=============================================================            
+Gas Can                        ==>        Base.PetrolCan                            
+Empty Gas Can                  ==>        Base.EmptyPetrolCan                       
+Bottle of Gasoline             ==>        Base.PetrolPopBottle                      
+Bottle of Gasoline             ==>        Base.WaterBottlePetrol                    
+Bottle of Gasoline             ==>        Base.WhiskeyPetrol                        
+Bottle of Gasoline             ==>        Base.WinePetrol                           
+
+=============================================================            
+Category :  Cartography                                                  
+=============================================================            
+Map                            ==>        Base.Map                                  
+Louisville Map                 ==>        Base.LouisvilleMap1                       
+Louisville Map                 ==>        Base.LouisvilleMap2                       
+Louisville Map                 ==>        Base.LouisvilleMap3                       
+Louisville Map                 ==>        Base.LouisvilleMap4                       
+Louisville Map                 ==>        Base.LouisvilleMap5                       
+Louisville Map                 ==>        Base.LouisvilleMap6                       
+Louisville Map                 ==>        Base.LouisvilleMap7                       
+Louisville Map                 ==>        Base.LouisvilleMap8                       
+Louisville Map                 ==>        Base.LouisvilleMap9                       
+March Ridge Map                ==>        Base.MarchRidgeMap                        
+Muldraugh Map                  ==>        Base.MuldraughMap                         
+Westpoint Map                  ==>        Base.WestpointMap                         
+Rosewood Map                   ==>        Base.RosewoodMap                          
+Riverside Map                  ==>        Base.RiversideMap                         
+
+=============================================================            
+Category :  Squirrel                                                     
+=============================================================            
+Furbert The Squirrel           ==>        Base.FurbertSquirrel                      
+
+=============================================================            
+Category :  Hedgehog                                                     
+=============================================================            
+Pancake The Hedgehog           ==>        Base.PancakeHedgehog                      
+
+=============================================================            
+Category :  FirstAid                                                     
+=============================================================            
+Sterilized Rag                 ==>        Base.AlcoholRippedSheets                  
+Painkillers                    ==>        Base.Pills                                
+Antidepressants                ==>        Base.PillsAntiDep                         
+Beta Blockers                  ==>        Base.PillsBeta                            
+Sleeping Tablets               ==>        Base.PillsSleepingTablets                 
+Tissue                         ==>        Base.Tissue                               
+Wild Garlic                    ==>        Base.WildGarlic2                          
+Common Mallow                  ==>        Base.CommonMallow                         
+Lemon Grass                    ==>        Base.LemonGrass                           
+Ginseng                        ==>        Base.Ginseng                              
+Worm                           ==>        Base.Worm                                 
+Scalpel                        ==>        Base.Scalpel                              
+Cold Pack                      ==>        Base.Coldpack                             
+Suture Needle                  ==>        Base.SutureNeedle                         
+Suture Needle Holder           ==>        Base.SutureNeedleHolder                   
+Adhesive Bandages              ==>        Base.Bandaid                              
+Bandage                        ==>        Base.Bandage                              
+Dirty Bandage                  ==>        Base.BandageDirty                         
+Sterilized Bandage             ==>        Base.AlcoholBandage                       
+Vitamins                       ==>        Base.PillsVitamins                        
+Mortar and Pestle              ==>        Base.MortarPestle                         
+Plantain                       ==>        Base.Plantain                             
+Plantain Poultice              ==>        Base.PlantainCataplasm                    
+Comfrey                        ==>        Base.Comfrey                              
+Comfrey Poultice               ==>        Base.ComfreyCataplasm                     
+Wild Garlic                    ==>        Base.WildGarlic                           
+Wild Garlic Poultice           ==>        Base.WildGarlicCataplasm                  
+Bottle of Disinfectant         ==>        Base.Disinfectant                         
+Alcohol Wipes                  ==>        Base.AlcoholWipes                         
+Cotton Balls                   ==>        Base.CottonBalls                          
+Splint                         ==>        Base.Splint                               
+Antibiotics                    ==>        Base.Antibiotics                          
+Cotton Balls Doused in Alcohol ==>        Base.AlcoholedCottonBalls                 
+Tweezers                       ==>        Base.Tweezers                             
+Medical Cap                    ==>        Base.Hat_SurgicalCap_Blue                 
+Medical Cap                    ==>        Base.Hat_SurgicalCap_Green                
+Medical Mask                   ==>        Base.Hat_SurgicalMask_Blue                
+Medical Mask                   ==>        Base.Hat_SurgicalMask_Green               
+Surgical Gloves                ==>        Base.Gloves_Surgical                      
+
+=============================================================            
+Category :  Corpse                                                       
+=============================================================            
+Corpse                         ==>        Base.CorpseMale                           
+Corpse                         ==>        Base.CorpseFemale                         
+
+=============================================================            
+Category :  Raccoon                                                      
+=============================================================            
+Spiffo                         ==>        Base.Spiffo                               
+Big Spiffo                     ==>        Base.SpiffoBig                            
+
+=============================================================            
+Category :  Clothing                                                     
+=============================================================            
+Wedding Jacket                 ==>        Base.WeddingJacket                        
+Ghillie Suit Torso             ==>        Base.Ghillie_Top                          
+Suit Jacket                    ==>        Base.Suit_Jacket                          
+Suit Jacket                    ==>        Base.Suit_JacketTINT                      
+Varsity Jacket                 ==>        Base.Jacket_Varsity                       
+Medical Coat                   ==>        Base.JacketLong_Doctor                    
+Army Coat                      ==>        Base.Jacket_CoatArmy                      
+Leather Jacket                 ==>        Base.JacketLong_Random                    
+Santa Suit Jacket              ==>        Base.JacketLong_Santa                     
+Green Santa Suit Jacket        ==>        Base.JacketLong_SantaGreen                
+Military Desert Camo Jacket    ==>        Base.Jacket_ArmyCamoDesert                
+Military Green Camo Jacket     ==>        Base.Jacket_ArmyCamoGreen                 
+Leather Jacket                 ==>        Base.Jacket_Black                         
+Chef Jacket                    ==>        Base.Jacket_Chef                          
+Firefighter Jacket             ==>        Base.Jacket_Fireman                       
+Padded Jacket                  ==>        Base.Jacket_Padded                        
+Padded Jacket                  ==>        Base.Jacket_PaddedDOWN                    
+Police Deputy Jacket           ==>        Base.Jacket_Police                        
+Ranger Jacket                  ==>        Base.Jacket_Ranger                        
+Jacket                         ==>        Base.Jacket_WhiteTINT                     
+Diamond-pattern Sweater        ==>        Base.Jumper_DiamondPatternTINT            
+Polo Neck Sweater              ==>        Base.Jumper_PoloNeck                      
+Round Neck Sweater             ==>        Base.Jumper_RoundNeck                     
+Diamond-pattern Sweater Vest   ==>        Base.Jumper_TankTopDiamondTINT            
+V-Neck Sweater Vest            ==>        Base.Jumper_TankTopTINT                   
+V-Neck Sweater                 ==>        Base.Jumper_VNeck                         
+Hoodie                         ==>        Base.HoodieDOWN_WhiteTINT                 
+Hoodie                         ==>        Base.HoodieUP_WhiteTINT                   
+Poncho                         ==>        Base.PonchoGreen                          
+Poncho                         ==>        Base.PonchoGreenDOWN                      
+Poncho                         ==>        Base.PonchoYellow                         
+Poncho                         ==>        Base.PonchoYellowDOWN                     
+Jacket                         ==>        Base.Jacket_NavyBlue                      
+Wild Raccoons Leather Jacket   ==>        Base.Jacket_LeatherWildRacoons            
+Iron Rodent Leather Jacket     ==>        Base.Jacket_LeatherIronRodent             
+Barrel Dogs Leather Jacket     ==>        Base.Jacket_LeatherBarrelDogs             
+Shell Suit Jacket              ==>        Base.Jacket_Shellsuit_Black               
+Shell Suit Jacket              ==>        Base.Jacket_Shellsuit_Blue                
+Shell Suit Jacket              ==>        Base.Jacket_Shellsuit_Green               
+Shell Suit Jacket              ==>        Base.Jacket_Shellsuit_Pink                
+Shell Suit Jacket              ==>        Base.Jacket_Shellsuit_Teal                
+Shell Suit Jacket              ==>        Base.Jacket_Shellsuit_TINT                
+Apron                          ==>        Base.Apron_Black                          
+Ice Cream Server Apron         ==>        Base.Apron_IceCream                       
+Jay Chicken Server Apron       ==>        Base.Apron_Jay                            
+PileOCrepe Server Apron        ==>        Base.Apron_PileOCrepe                     
+PizzaWhirled Server Apron      ==>        Base.Apron_PizzaWhirled                   
+Spiffo's Server Apron          ==>        Base.Apron_Spiffos                        
+Apron                          ==>        Base.Apron_White                          
+Tight Fit Apron                ==>        Base.Apron_WhiteTEXTURE                   
+Bikini                         ==>        Base.Bikini_TINT                          
+Bikini                         ==>        Base.Bikini_Pattern01                     
+Swim Trunks                    ==>        Base.SwimTrunks_Blue                      
+Swim Trunks                    ==>        Base.SwimTrunks_Green                     
+Swim Trunks                    ==>        Base.SwimTrunks_Red                       
+Swim Trunks                    ==>        Base.SwimTrunks_Yellow                    
+Swimsuit                       ==>        Base.Swimsuit_TINT                        
+Bunny Tail                     ==>        Base.BunnyTail                            
+Bunny Suit                     ==>        Base.BunnySuitBlack                       
+Bunny Suit                     ==>        Base.BunnySuitPink                        
+Long Johns Bottoms             ==>        Base.LongJohns_Bottoms                    
+Military Camo Shorts           ==>        Base.Shorts_CamoGreenLong                 
+Military Camo Shorts           ==>        Base.Shorts_CamoUrbanLong                 
+Long Denim Shorts              ==>        Base.Shorts_LongDenim                     
+Long Sport Shorts              ==>        Base.Shorts_LongSport                     
+Long Sport Shorts              ==>        Base.Shorts_LongSport_Red                 
+Boxing Shorts                  ==>        Base.Shorts_BoxingRed                     
+Boxing Shorts                  ==>        Base.Shorts_BoxingBlue                    
+Denim Shorts                   ==>        Base.Shorts_ShortDenim                    
+Shorts                         ==>        Base.Shorts_ShortFormal                   
+Sport Shorts                   ==>        Base.Shorts_ShortSport                    
+Knee-length Skirt              ==>        Base.Skirt_Knees                          
+Mini Skirt                     ==>        Base.Skirt_Mini                           
+Long Skirt                     ==>        Base.Skirt_Long                           
+Skirt                          ==>        Base.Skirt_Normal                         
+Short Skirt                    ==>        Base.Skirt_Short                          
+Ghillie Suit Pants             ==>        Base.Ghillie_Trousers                     
+Pants                          ==>        Base.Trousers                             
+Denim Jeans                    ==>        Base.TrousersMesh_DenimLight              
+Skinny Leather Trousers        ==>        Base.TrousersMesh_Leather                 
+Black Leather Trousers         ==>        Base.Trousers_LeatherBlack                
+Military Desert Camo Pants     ==>        Base.Trousers_CamoDesert                  
+Military Camo Pants            ==>        Base.Trousers_CamoGreen                   
+Military Urban Camo Pants      ==>        Base.Trousers_CamoUrban                   
+Chef Pants                     ==>        Base.Trousers_Chef                        
+Pants                          ==>        Base.Trousers_DefaultTEXTURE              
+Pants                          ==>        Base.Trousers_DefaultTEXTURE_HUE          
+Pants                          ==>        Base.Trousers_DefaultTEXTURE_TINT         
+Jeans                          ==>        Base.Trousers_Denim                       
+Firefighter Pants              ==>        Base.Trousers_Fireman                     
+Baggy Jeans                    ==>        Base.Trousers_JeanBaggy                   
+Padded Pants                   ==>        Base.Trousers_Padded                      
+Police Trooper Pants           ==>        Base.Trousers_Police                      
+Police Deputy Pants            ==>        Base.Trousers_PoliceGrey                  
+Prison Guard Pants             ==>        Base.Trousers_PrisonGuard                 
+Ranger Pants                   ==>        Base.Trousers_Ranger                      
+Santa Suit Pants               ==>        Base.Trousers_Santa                       
+Green Santa Suit Pants         ==>        Base.Trousers_SantaGReen                  
+Medical Pants                  ==>        Base.Trousers_Scrubs                      
+Suit Pants                     ==>        Base.Trousers_Suit                        
+Suit Pants                     ==>        Base.Trousers_SuitTEXTURE                 
+Suit Pants                     ==>        Base.Trousers_SuitWhite                   
+Pants                          ==>        Base.Trousers_WhiteTEXTURE                
+Pants                          ==>        Base.Trousers_WhiteTINT                   
+Overalls                       ==>        Base.Dungarees                            
+Army Pants                     ==>        Base.Trousers_ArmyService                 
+Black Trousers                 ==>        Base.Trousers_Black                       
+Navy Blue Trousers             ==>        Base.Trousers_NavyBlue                    
+Shell Suit Trousers            ==>        Base.Trousers_Shellsuit_Black             
+Shell Suit Trousers            ==>        Base.Trousers_Shellsuit_Blue              
+Shell Suit Trousers            ==>        Base.Trousers_Shellsuit_Green             
+Shell Suit Trousers            ==>        Base.Trousers_Shellsuit_Pink              
+Shell Suit Trousers            ==>        Base.Trousers_Shellsuit_Teal              
+Shell Suit Trousers            ==>        Base.Trousers_Shellsuit_TINT              
+Kentucky Baseball Shirt        ==>        Base.Shirt_Baseball_KY                    
+Riverside Rangers Baseball Shirt ==>        Base.Shirt_Baseball_Rangers               
+Z Hurricanes Baseball Shirt    ==>        Base.Shirt_Baseball_Z                     
+Military Desert Camo Shirt     ==>        Base.Shirt_CamoDesert                     
+Military Camo Shirt            ==>        Base.Shirt_CamoGreen                      
+Military Urban Camo Shirt      ==>        Base.Shirt_CamoUrban                      
+Denim Shirt                    ==>        Base.Shirt_Denim                          
+Jockey Silks - 1               ==>        Base.Shirt_Jockey01                       
+Jockey Silks - 2               ==>        Base.Shirt_Jockey02                       
+Jockey Silks - 3               ==>        Base.Shirt_Jockey03                       
+Jockey Silks - 4               ==>        Base.Shirt_Jockey04                       
+Jockey Silks - 5               ==>        Base.Shirt_Jockey05                       
+Jockey Silks - 6               ==>        Base.Shirt_Jockey06                       
+Lumberjack Shirt               ==>        Base.Shirt_Lumberjack                     
+Police Shirt                   ==>        Base.Shirt_OfficerWhite                   
+Police Trooper Shirt           ==>        Base.Shirt_PoliceBlue                     
+Police Deputy Shirt            ==>        Base.Shirt_PoliceGrey                     
+Prison Guard Shirt             ==>        Base.Shirt_PrisonGuard                    
+Priest Shirt                   ==>        Base.Shirt_Priest                         
+Ranger Shirt                   ==>        Base.Shirt_Ranger                         
+Medical Scrubs                 ==>        Base.Shirt_Scrubs                         
+Formal Shirt                   ==>        Base.Shirt_FormalTINT                     
+Formal Shirt                   ==>        Base.Shirt_FormalWhite                    
+Short Sleeve Shirt             ==>        Base.Shirt_FormalWhite_ShortSleeve        
+Short Sleeve Shirt             ==>        Base.Shirt_FormalWhite_ShortSleeveTINT    
+Workman Shirt                  ==>        Base.Shirt_Workman                        
+Hawaiian Red Shirt             ==>        Base.Shirt_HawaiianRed                    
+Hawaiian Shirt                 ==>        Base.Shirt_HawaiianTINT                   
+Military T-Shirt               ==>        Base.Tshirt_ArmyGreen                     
+Military Desert Camo T-Shirt   ==>        Base.Tshirt_CamoDesert                    
+Military Green Camo T-Shirt    ==>        Base.Tshirt_CamoGreen                     
+Military Urban Camo T-Shirt    ==>        Base.Tshirt_CamoUrban                     
+Fossoil T-Shirt                ==>        Base.Tshirt_Fossoil                       
+Gas2Go T-Shirt                 ==>        Base.Tshirt_Gas2Go                        
+ThunderGas T-Shirt             ==>        Base.Tshirt_ThunderGas                    
+Rock T-Shirt                   ==>        Base.Tshirt_Rock                          
+McCoys T-Shirt                 ==>        Base.Tshirt_McCoys                        
+PileOCrepe T-Shirt             ==>        Base.Tshirt_PileOCrepe                    
+Pizza Whirled T-Shirt          ==>        Base.Tshirt_PizzaWhirled                  
+Spiffo T-Shirt                 ==>        Base.Tshirt_BusinessSpiffo                
+Valley Station T-Shirt         ==>        Base.Tshirt_ValleyStation                 
+T-Shirt                        ==>        Base.Tshirt_DefaultDECAL                  
+T-Shirt                        ==>        Base.Tshirt_DefaultDECAL_TINT             
+T-Shirt                        ==>        Base.Tshirt_DefaultTEXTURE                
+T-Shirt                        ==>        Base.Tshirt_DefaultTEXTURE_TINT           
+Police Trooper T-Shirt         ==>        Base.Tshirt_PoliceBlue                    
+Police Deputy T-Shirt          ==>        Base.Tshirt_PoliceGrey                    
+Striped T-Shirt                ==>        Base.Tshirt_PoloStripedTINT               
+T-Shirt                        ==>        Base.Tshirt_PoloTINT                      
+Ranger T-Shirt                 ==>        Base.Tshirt_Ranger                        
+Medical T-Shirt                ==>        Base.Tshirt_Scrubs                        
+TIS T-Shirt                    ==>        Base.Tshirt_IndieStoneDECAL               
+Spiffo T-Shirt                 ==>        Base.Tshirt_SpiffoDECAL                   
+Sport T-Shirt                  ==>        Base.Tshirt_Sport                         
+T-Shirt                        ==>        Base.Tshirt_SportDECAL                    
+Long Sleeve T-Shirt            ==>        Base.Tshirt_WhiteLongSleeve               
+Long Sleeve T-Shirt            ==>        Base.Tshirt_WhiteLongSleeveTINT           
+T-Shirt                        ==>        Base.Tshirt_WhiteTINT                     
+Waistcoat                      ==>        Base.Vest_Waistcoat                       
+Waistcoat                      ==>        Base.Vest_WaistcoatTINT                   
+GigaMart Waistcoat             ==>        Base.Vest_Waistcoat_GigaMart              
+Military Bulletproof Vest      ==>        Base.Vest_BulletArmy                      
+Civilian Bulletproof Vest      ==>        Base.Vest_BulletCivilian                  
+Police Bulletproof Vest        ==>        Base.Vest_BulletPolice                    
+Tank Top                       ==>        Base.Vest_DefaultTEXTURE                  
+Tank Top                       ==>        Base.Vest_DefaultTEXTURE_TINT             
+Grey Hunting Vest              ==>        Base.Vest_Hunting_Grey                    
+Orange Hunting Vest            ==>        Base.Vest_Hunting_Orange                  
+Camo Hunting Vest              ==>        Base.Vest_Hunting_Camo                    
+Green Camo Hunting Vest        ==>        Base.Vest_Hunting_CamoGreen               
+Foreman Vest                   ==>        Base.Vest_Foreman                         
+High Visibility Vest           ==>        Base.Vest_HighViz                         
+Blue Fireman T-Shirt           ==>        Base.Tshirt_Profession_FiremanBlue        
+Red Fireman T-Shirt            ==>        Base.Tshirt_Profession_FiremanRed         
+Dark Red Fireman T-Shirt       ==>        Base.Tshirt_Profession_FiremanRed02       
+White Fireman T-Shirt          ==>        Base.Tshirt_Profession_FiremanWhite       
+Blue Police T-Shirt            ==>        Base.Tshirt_Profession_PoliceBlue         
+White Police T-Shirt           ==>        Base.Tshirt_Profession_PoliceWhite        
+Brown Ranger T-Shirt           ==>        Base.Tshirt_Profession_RangerBrown        
+Green Ranger T-Shirt           ==>        Base.Tshirt_Profession_RangerGreen        
+Green Veteran T-Shirt          ==>        Base.Tshirt_Profession_VeterenGreen       
+Red Veteran T-Shirt            ==>        Base.Tshirt_Profession_VeterenRed         
+Crop Top Arms                  ==>        Base.Shirt_CropTopTINT                    
+Crop Top                       ==>        Base.Shirt_CropTopNoArmTINT               
+Bandeau                        ==>        Base.BoobTube                             
+Small Bandeau                  ==>        Base.BoobTubeSmall                        
+Bowling Shirt Blue             ==>        Base.Shirt_Bowling_Blue                   
+Bowling Shirt Brown            ==>        Base.Shirt_Bowling_Brown                  
+Bowling Shirt Green            ==>        Base.Shirt_Bowling_Green                  
+Bowling Shirt Lime Green       ==>        Base.Shirt_Bowling_LimeGreen              
+Bowling Shirt Pink             ==>        Base.Shirt_Bowling_Pink                   
+Bowling Shirt White            ==>        Base.Shirt_Bowling_White                  
+Socks                          ==>        Base.Socks_Ankle                          
+Long Socks                     ==>        Base.Socks_Long                           
+Underwear                      ==>        Base.Male_Undies                          
+Military Boots                 ==>        Base.Shoes_ArmyBoots                      
+Military Desert Boots          ==>        Base.Shoes_ArmyBootsDesert                
+Shoes                          ==>        Base.Shoes_Black                          
+Boots                          ==>        Base.Shoes_BlackBoots                     
+Sneakers                       ==>        Base.Shoes_BlueTrainers                   
+Shoes                          ==>        Base.Shoes_Brown                          
+Shoes                          ==>        Base.Shoes_Random                         
+Sneakers                       ==>        Base.Shoes_RedTrainers                    
+Riding Boots                   ==>        Base.Shoes_RidingBoots                    
+Slippers                       ==>        Base.Shoes_Slippers                       
+Sneakers                       ==>        Base.Shoes_TrainerTINT                    
+Rain Boots                     ==>        Base.Shoes_Wellies                        
+Flip Flops                     ==>        Base.Shoes_FlipFlop                       
+Bowling Shoes                  ==>        Base.Shoes_Bowling                        
+Fancy Shoes                    ==>        Base.Shoes_Fancy                          
+Sandals                        ==>        Base.Shoes_Sandals                        
+Strapped Shoes                 ==>        Base.Shoes_Strapped                       
+Long Johns                     ==>        Base.LongJohns                            
+Bath Robe                      ==>        Base.LongCoat_Bathrobe                    
+Spiffo Suit                    ==>        Base.SpiffoSuit                           
+Spiffo Suit Tail               ==>        Base.SpiffoTail                           
+Hazmat Suit                    ==>        Base.HazmatSuit                           
+Coveralls                      ==>        Base.Boilersuit                           
+Coveralls                      ==>        Base.Boilersuit_BlueRed                   
+Coveralls                      ==>        Base.Boilersuit_Yellow                    
+Airforce Coveralls             ==>        Base.Boilersuit_Flying                    
+Prisoner Jumpsuit              ==>        Base.Boilersuit_Prisoner                  
+Prisoner Jumpsuit              ==>        Base.Boilersuit_PrisonerKhaki             
+Knee-length Dress              ==>        Base.Dress_Knees                          
+Straps Knee-length Dress       ==>        Base.DressKnees_Straps                    
+Strapless Black Dress          ==>        Base.Dress_SmallBlackStrapless            
+Little Black Dress             ==>        Base.Dress_SmallBlackStraps               
+Strapless Small Dress          ==>        Base.Dress_SmallStrapless                 
+Straps Small Dress             ==>        Base.Dress_SmallStraps                    
+Satin Negligee                 ==>        Base.Dress_SatinNegligee                  
+Long Dress                     ==>        Base.Dress_Long                           
+Long Dress                     ==>        Base.Dress_long_Straps                    
+Dress                          ==>        Base.Dress_Normal                         
+Straps Dress                   ==>        Base.Dress_Straps                         
+Short Dress                    ==>        Base.Dress_Short                          
+Wedding Dress                  ==>        Base.WeddingDress                         
+Hospital Gown                  ==>        Base.HospitalGown                         
+Black Strapless Bra            ==>        Base.Bra_Strapless_Black                  
+Red Spots Strapless Bra        ==>        Base.Bra_Strapless_RedSpots               
+Strapless Bra                  ==>        Base.Bra_Strapless_White                  
+Black Straps Bra               ==>        Base.Bra_Straps_Black                     
+Straps Bra                     ==>        Base.Bra_Straps_White                     
+Black Underpants               ==>        Base.Underpants_Black                     
+Red Spots Underpants           ==>        Base.Underpants_RedSpots                  
+Underpants                     ==>        Base.Underpants_White                     
+Hearts Boxers                  ==>        Base.Boxers_Hearts                        
+Silk Boxers                    ==>        Base.Boxers_Silk_Black                    
+Silk Boxers                    ==>        Base.Boxers_Silk_Red                      
+Red Stripes Boxer              ==>        Base.Boxers_RedStripes                    
+Boxers                         ==>        Base.Boxers_White                         
+Briefs                         ==>        Base.Briefs_White                         
+Briefs                         ==>        Base.Briefs_AnimalPrints                  
+Black Speedo                   ==>        Base.Briefs_SmallTrunks_Black             
+Blue Speedo                    ==>        Base.Briefs_SmallTrunks_Blue              
+Red Speedo                     ==>        Base.Briefs_SmallTrunks_Red               
+Speedo                         ==>        Base.Briefs_SmallTrunks_WhiteTINT         
+Garter                         ==>        Base.Garter                               
+Black Corset                   ==>        Base.Corset_Black                         
+Red Corset                     ==>        Base.Corset_Red                           
+Corset                         ==>        Base.Corset                               
+Medical Corset                 ==>        Base.Corset_Medical                       
+Animal Print Strapless Bra     ==>        Base.Bra_Strapless_AnimalPrint            
+Animal Print Straps Bra        ==>        Base.Bra_Straps_AnimalPrint               
+Black Frilly Straps Bra        ==>        Base.Bra_Straps_FrillyBlack               
+Black Frilly Strapless Bra     ==>        Base.Bra_Strapless_FrillyBlack            
+Pink Frilly Straps Bra         ==>        Base.Bra_Straps_FrillyPink                
+Pink Frilly Strapless Bra      ==>        Base.Bra_Strapless_FrillyPink             
+Red Frilly Straps Bra          ==>        Base.Bra_Straps_FrillyRed                 
+Red Frilly Strapless Bra       ==>        Base.Bra_Strapless_FrillyRed              
+Animal Print Underpants        ==>        Base.Underpants_AnimalPrint               
+Black Frilly Underpants        ==>        Base.FrillyUnderpants_Black               
+Pink Frilly Underpants         ==>        Base.FrillyUnderpants_Pink                
+Red Frilly Underpants          ==>        Base.FrillyUnderpants_Red                 
+
+=============================================================            
+Category :  LightSource                                                  
+=============================================================            
+Candle                         ==>        Base.Candle                               
+Lit Candle                     ==>        Base.CandleLit                            
+Lighter                        ==>        Base.Lighter                              
+Matches                        ==>        Base.Matches                              
+Flashlight                     ==>        Base.Torch                                
+Hand Torch                     ==>        Base.HandTorch                            
+
+=============================================================            
+Category :  Household                                                    
+=============================================================            
+Wet Dish Towel                 ==>        Base.DishClothWet                         
+Ripped Sheets                  ==>        Base.RippedSheets                         
+Dirty Rag                      ==>        Base.RippedSheetsDirty                    
+Dish Towel                     ==>        Base.DishCloth                            
+Juice Box                      ==>        Base.JuiceBox                             
+Plunger                        ==>        Base.Plunger                              
+Chair Leg                      ==>        Base.ChairLeg                             
+Broom                          ==>        Base.Broom                                
+Letter Opener                  ==>        Base.LetterOpener                         
+Scissors                       ==>        Base.Scissors                             
+Red Pen                        ==>        Base.RedPen                               
+Blue Pen                       ==>        Base.BluePen                              
+Pen                            ==>        Base.Pen                                  
+Pencil                         ==>        Base.Pencil                               
+Closed Umbrella                ==>        Base.ClosedUmbrellaBlue                   
+Closed Umbrella                ==>        Base.ClosedUmbrellaRed                    
+Closed Umbrella                ==>        Base.ClosedUmbrellaBlack                  
+Closed Umbrella                ==>        Base.ClosedUmbrellaWhite                  
+Cleaning Liquid                ==>        Base.CleaningLiquid2                      
+Cleaning Liquid                ==>        Base.CleaningLiquid                       
+Eraser                         ==>        Base.Eraser                               
+Mop                            ==>        Base.Mop                                  
+Sponge                         ==>        Base.Sponge                               
+Underwear                      ==>        Base.Underwear1                           
+Underwear                      ==>        Base.Underwear2                           
+Soap                           ==>        Base.Soap                                 
+Umbrella                       ==>        Base.Umbrella                             
+Umbrella                       ==>        Base.UmbrellaBlack                        
+Umbrella                       ==>        Base.UmbrellaWhite                        
+Umbrella                       ==>        Base.UmbrellaBlue                         
+Umbrella                       ==>        Base.UmbrellaRed                          
+Soap                           ==>        Base.Soap2                                
+Wet Bath Towel                 ==>        Base.BathTowelWet                         
+Bath Towel                     ==>        Base.BathTowel                            
+Extinguisher                   ==>        Base.Extinguisher                         
+Lamp                           ==>        Base.Lamp                                 
+Alarm Clock                    ==>        Base.AlarmClock2                          
+Alarm Clock                    ==>        Base.AlarmClock                           
+
+=============================================================            
+Category :  WeaponPart                                                   
+=============================================================            
+Iron Sight                     ==>        Base.IronSight                            
+x2 Scope                       ==>        Base.x2Scope                              
+x4 Scope                       ==>        Base.x4Scope                              
+x8 Scope                       ==>        Base.x8Scope                              
+Ammo Straps                    ==>        Base.AmmoStraps                           
+Sling                          ==>        Base.Sling                                
+Fiberglass Stock               ==>        Base.FiberglassStock                      
+Recoil Pad                     ==>        Base.RecoilPad                            
+Laser                          ==>        Base.Laser                                
+Red Dot                        ==>        Base.RedDot                               
+Gun Light                      ==>        Base.GunLight                             
+Bayonnet                       ==>        Base.Bayonnet                             
+Choke Tube Full                ==>        Base.ChokeTubeFull                        
+Choke Tube Improved            ==>        Base.ChokeTubeImproved                    
+
+=============================================================            
+Category :  Appearance                                                   
+=============================================================            
+Hairspray                      ==>        Base.Hairspray                            
+Eyes Makeup                    ==>        Base.MakeupEyeshadow                      
+Foundation Makeup              ==>        Base.MakeupFoundation                     
+Lipstick                       ==>        Base.Lipstick                             
+Mirror                         ==>        Base.Mirror                               
+Blonde Hair Dye                ==>        Base.HairDyeBlonde                        
+Black Hair Dye                 ==>        Base.HairDyeBlack                         
+White Hair Dye                 ==>        Base.HairDyeWhite                         
+Pink Hair Dye                  ==>        Base.HairDyePink                          
+Yellow Hair Dye                ==>        Base.HairDyeYellow                        
+Red Hair Dye                   ==>        Base.HairDyeRed                           
+Strawberry Blonde Hair Dye     ==>        Base.HairDyeGinger                        
+Light Brown Hair Dye           ==>        Base.HairDyeLightBrown                    
+Green Hair Dye                 ==>        Base.HairDyeGreen                         
+Blue Hair Dye                  ==>        Base.HairDyeBlue                          
+Hair gel                       ==>        Base.Hairgel                              
+MakeUp_GreenCamo               ==>        Base.MakeUp_GreenCamo                     
+
+=============================================================            
+Category :  Material                                                     
+=============================================================            
+Thread                         ==>        Base.Thread                               
+Barbed Wire                    ==>        Base.BarbedWire                           
+Bag of Concrete Powder         ==>        Base.ConcretePowder                       
+Doorknob                       ==>        Base.Doorknob                             
+Drawer                         ==>        Base.Drawer                               
+Door Hinge                     ==>        Base.Hinge                                
+Log                            ==>        Base.Log                                  
+Nails                          ==>        Base.Nails                                
+Pillow                         ==>        Base.Pillow                               
+Bag of Plaster Powder          ==>        Base.PlasterPowder                        
+Sheet                          ==>        Base.Sheet                                
+Sheet Rope                     ==>        Base.SheetRope                            
+Bucket of Concrete             ==>        Base.BucketConcreteFull                   
+Bucket of Plaster              ==>        Base.BucketPlasterFull                    
+Gravel Bag                     ==>        Base.Gravelbag                            
+Propane Tank                   ==>        Base.PropaneTank                          
+Charcoal                       ==>        Base.Charcoal                             
+Coal                           ==>        Base.Coal                                 
+Dirt Bag                       ==>        Base.Dirtbag                              
+Sand Bag                       ==>        Base.Sandbag                              
+Flint                          ==>        Base.Flint                                
+Tent Peg                       ==>        Base.TentPeg                              
+Plank                          ==>        Base.Plank                                
+Aluminum                       ==>        Base.Aluminum                             
+Unusable Wood                  ==>        Base.UnusableWood                         
+Unusable Metal                 ==>        Base.UnusableMetal                        
+Gunpowder                      ==>        Base.GunPowder                            
+Box of Sparklers               ==>        Base.Sparklers                            
+Plastic Pipe                   ==>        Base.Pipe                                 
+Scrap Metal                    ==>        Base.ScrapMetal                           
+Metal Sheet                    ==>        Base.SheetMetal                           
+Yarn                           ==>        Base.Yarn                                 
+Two Logs Stack                 ==>        Base.LogStacks2                           
+Three Logs Stack               ==>        Base.LogStacks3                           
+Four Logs Stack                ==>        Base.LogStacks4                           
+Twigs                          ==>        Base.Twigs                                
+Tree Branch                    ==>        Base.TreeBranch                           
+Stone                          ==>        Base.Stone                                
+Chipped Stone                  ==>        Base.SharpedStone                         
+Tarp                           ==>        Base.Tarp                                 
+Paperclip                      ==>        Base.Paperclip                            
+Adhesive Tape                  ==>        Base.Scotchtape                           
+Twine                          ==>        Base.Twine                                
+Wire                           ==>        Base.Wire                                 
+Wood Glue                      ==>        Base.Woodglue                             
+Box of Nails                   ==>        Base.NailsBox                             
+Box of Paperclips              ==>        Base.PaperclipBox                         
+Box of Screws                  ==>        Base.ScrewsBox                            
+Screws                         ==>        Base.Screws                               
+Glue                           ==>        Base.Glue                                 
+Rope                           ==>        Base.Rope                                 
+Duct Tape                      ==>        Base.DuctTape                             
+String                         ==>        Base.String                               
+Sturdy Stick                   ==>        Base.WoodenStick                          
+Workable Iron                  ==>        Base.IronIngot                            
+Small Metal Sheet              ==>        Base.SmallSheetMetal                      
+Empty Tin Can                  ==>        Base.TinCanEmpty                          
+Welding Rods                   ==>        Base.WeldingRods                          
+Handle                         ==>        Base.Handle                               
+Empty Paint Bucket             ==>        Base.PaintbucketEmpty                     
+Denim Strips                   ==>        Base.DenimStrips                          
+Dirty Denim Strips             ==>        Base.DenimStripsDirty                     
+Leather Strips                 ==>        Base.LeatherStrips                        
+Dirty Leather Strips           ==>        Base.LeatherStripsDirty                   
+Staples                        ==>        Base.Staples                              
+
+=============================================================            
+Category :  SkillBook                                                    
+=============================================================            
+Trapping Vol. 1                ==>        Base.BookTrapping1                        
+Trapping Vol. 2                ==>        Base.BookTrapping2                        
+Trapping Vol. 3                ==>        Base.BookTrapping3                        
+Trapping Vol. 4                ==>        Base.BookTrapping4                        
+Trapping Vol. 5                ==>        Base.BookTrapping5                        
+Fishing Vol. 1                 ==>        Base.BookFishing1                         
+Fishing Vol. 2                 ==>        Base.BookFishing2                         
+Fishing Vol. 3                 ==>        Base.BookFishing3                         
+Fishing Vol. 4                 ==>        Base.BookFishing4                         
+Fishing Vol. 5                 ==>        Base.BookFishing5                         
+Carpentry Vol. 1               ==>        Base.BookCarpentry1                       
+Carpentry Vol. 2               ==>        Base.BookCarpentry2                       
+Carpentry Vol. 3               ==>        Base.BookCarpentry3                       
+Carpentry Vol. 4               ==>        Base.BookCarpentry4                       
+Carpentry Vol. 5               ==>        Base.BookCarpentry5                       
+Mechanics Vol. 1               ==>        Base.BookMechanic1                        
+Mechanics Vol. 2               ==>        Base.BookMechanic2                        
+Mechanics Vol. 3               ==>        Base.BookMechanic3                        
+Mechanics Vol. 4               ==>        Base.BookMechanic4                        
+Mechanics Vol. 5               ==>        Base.BookMechanic5                        
+First Aid Vol. 1               ==>        Base.BookFirstAid1                        
+First Aid Vol. 2               ==>        Base.BookFirstAid2                        
+First Aid Vol. 3               ==>        Base.BookFirstAid3                        
+First Aid Vol. 4               ==>        Base.BookFirstAid4                        
+First Aid Vol. 5               ==>        Base.BookFirstAid5                        
+Blacksmith Vol. 1              ==>        Base.BookBlacksmith1                      
+Blacksmith Vol. 2              ==>        Base.BookBlacksmith2                      
+Blacksmith Vol. 3              ==>        Base.BookBlacksmith3                      
+Blacksmith Vol. 4              ==>        Base.BookBlacksmith4                      
+Blacksmith Vol. 5              ==>        Base.BookBlacksmith5                      
+Metalwork Vol. 1               ==>        Base.BookMetalWelding1                    
+Metalwork Vol. 2               ==>        Base.BookMetalWelding2                    
+Metalwork Vol. 3               ==>        Base.BookMetalWelding3                    
+Metalwork Vol. 4               ==>        Base.BookMetalWelding4                    
+Metalwork Vol. 5               ==>        Base.BookMetalWelding5                    
+Electrician Vol. 1             ==>        Base.BookElectrician1                     
+Electrician Vol. 2             ==>        Base.BookElectrician2                     
+Electrician Vol. 3             ==>        Base.BookElectrician3                     
+Electrician Vol. 4             ==>        Base.BookElectrician4                     
+Electrician Vol. 5             ==>        Base.BookElectrician5                     
+Cooking Vol. 1                 ==>        Base.BookCooking1                         
+Cooking Vol. 2                 ==>        Base.BookCooking2                         
+Cooking Vol. 3                 ==>        Base.BookCooking3                         
+Cooking Vol. 4                 ==>        Base.BookCooking4                         
+Cooking Vol. 5                 ==>        Base.BookCooking5                         
+Farming Vol. 1                 ==>        Base.BookFarming1                         
+Farming Vol. 2                 ==>        Base.BookFarming2                         
+Farming Vol. 3                 ==>        Base.BookFarming3                         
+Farming Vol. 4                 ==>        Base.BookFarming4                         
+Farming Vol. 5                 ==>        Base.BookFarming5                         
+Foraging Vol. 1                ==>        Base.BookForaging1                        
+Foraging Vol. 2                ==>        Base.BookForaging2                        
+Foraging Vol. 3                ==>        Base.BookForaging3                        
+Foraging Vol. 4                ==>        Base.BookForaging4                        
+Foraging Vol. 5                ==>        Base.BookForaging5                        
+Tailoring Vol. 1               ==>        Base.BookTailoring1                       
+Tailoring Vol. 2               ==>        Base.BookTailoring2                       
+Tailoring Vol. 3               ==>        Base.BookTailoring3                       
+Tailoring Vol. 4               ==>        Base.BookTailoring4                       
+Tailoring Vol. 5               ==>        Base.BookTailoring5                       
+Laines Auto Manual - Standard Models ==>        Base.MechanicMag1                         
+Laines Auto Manual - Commercial Models ==>        Base.MechanicMag2                         
+Laines Auto Manual - Performance Models ==>        Base.MechanicMag3                         
+The Farming Magazine           ==>        Base.FarmingMag1                          
+Angler USA Magazine Vol. 1     ==>        Base.FishingMag1                          
+Angler USA Magazine Vol. 2     ==>        Base.FishingMag2                          
+The Hunter Magazine Vol. 1     ==>        Base.HuntingMag1                          
+The Hunter Magazine Vol. 2     ==>        Base.HuntingMag2                          
+The Hunter Magazine Vol. 3     ==>        Base.HuntingMag3                          
+The Herbalist                  ==>        Base.HerbalistMag                         
+The Metalwork Magazine Vol. 1  ==>        Base.MetalworkMag1                        
+The Metalwork Magazine Vol. 2  ==>        Base.MetalworkMag2                        
+The Metalwork Magazine Vol. 3  ==>        Base.MetalworkMag3                        
+The Metalwork Magazine Vol. 4  ==>        Base.MetalworkMag4                        
+The Smithing Magazine Vol. 1   ==>        Base.SmithingMag1                         
+The Smithing Magazine Vol. 2   ==>        Base.SmithingMag2                         
+The Smithing Magazine Vol. 3   ==>        Base.SmithingMag3                         
+The Smithing Magazine Vol. 4   ==>        Base.SmithingMag4                         
+Good Cooking Magazine Vol. 1   ==>        Base.CookingMag1                          
+Good Cooking Magazine Vol. 2   ==>        Base.CookingMag2                          
+Electronics Magazine Vol. 1    ==>        Base.ElectronicsMag1                      
+Electronics Magazine Vol. 2    ==>        Base.ElectronicsMag2                      
+Electronics Magazine Vol. 3    ==>        Base.ElectronicsMag3                      
+How to Use Generators          ==>        Base.ElectronicsMag4                      
+Electronics Magazine Vol. 4    ==>        Base.ElectronicsMag5                      
+Engineer Magazine Vol. 1       ==>        Base.EngineerMagazine1                    
+Engineer Magazine Vol. 2       ==>        Base.EngineerMagazine2                    
+Guerilla Radio Vol. 1          ==>        Base.RadioMag1                            
+Guerilla Radio Vol. 2          ==>        Base.RadioMag2                            
+Guerilla Radio Vol. 3          ==>        Base.RadioMag3                            
+
+=============================================================            
+Category :  WeaponCrafted                                                
+=============================================================            
+Spiked PickAxe Handle          ==>        Base.PickAxeHandleSpiked                  
+Table Leg                      ==>        Base.TableLeg                             
+Spiked Plank                   ==>        Base.PlankNail                            
+Spiked Baseball Bat            ==>        Base.BaseballBatNails                     
+Smashed Bottle                 ==>        Base.SmashedBottle                        
+Stone Knife                    ==>        Base.FlintKnife                           
+Stake                          ==>        Base.Stake                                
+Wooden Spear                   ==>        Base.WoodenLance                          
+Spear With Bread Knife         ==>        Base.SpearBreadKnife                      
+Spear With Butter Knife        ==>        Base.SpearButterKnife                     
+Spear With Fork                ==>        Base.SpearFork                            
+Spear With Letter Opener       ==>        Base.SpearLetterOpener                    
+Spear With Scalpel             ==>        Base.SpearScalpel                         
+Spear With Spoon               ==>        Base.SpearSpoon                           
+Spear With Scissors            ==>        Base.SpearScissors                        
+Spear With Hand Fork           ==>        Base.SpearHandFork                        
+Spear With Screwdriver         ==>        Base.SpearScrewdriver                     
+Spear With Hunting Knife       ==>        Base.SpearHuntingKnife                    
+Spear With Machete             ==>        Base.SpearMachete                         
+Spear With Ice Pick            ==>        Base.SpearIcePick                         
+Crafted Spear                  ==>        Base.SpearCrafted                         
+Spear With Knife               ==>        Base.SpearKnife                           
+
+=============================================================            
+Category :  Accessory                                                    
+=============================================================            
+Earrings                       ==>        Base.Earrings                             
+Pearl Necklace                 ==>        Base.Necklacepearl                        
+Ring                           ==>        Base.Ring                                 
+Digital Watch                  ==>        Base.DigitalWatch                         
+Digital Watch                  ==>        Base.DigitalWatch2                        
+Wedding Ring                   ==>        Base.WeddingRing_Man                      
+Wedding Ring                   ==>        Base.WeddingRing_Woman                    
+Military Helmet                ==>        Base.Hat_Army                             
+Open Balaclava                 ==>        Base.Hat_BalaclavaFace                    
+Balaclava                      ==>        Base.Hat_BalaclavaFull                    
+Bandana (Head)                 ==>        Base.Hat_Bandana                          
+Bandana (Head)                 ==>        Base.Hat_BandanaTINT                      
+Baseball Cap                   ==>        Base.Hat_BaseballCap                      
+Baseball Cap                   ==>        Base.Hat_BaseballCap_Reverse              
+KY Baseball Cap                ==>        Base.Hat_BaseballCapKY                    
+KY Baseball Cap                ==>        Base.Hat_BaseballCapKY_Reverse            
+KY Baseball Cap                ==>        Base.Hat_BaseballCapKY_Red                
+Baseball Cap                   ==>        Base.Hat_BaseballCapBlue                  
+Baseball Cap                   ==>        Base.Hat_BaseballCapBlue_Reverse          
+Baseball Cap                   ==>        Base.Hat_BaseballCapRed                   
+Baseball Cap                   ==>        Base.Hat_BaseballCapRed_Reverse           
+Baseball Cap                   ==>        Base.Hat_BaseballCapGreen                 
+Baseball Cap                   ==>        Base.Hat_BaseballCapGreen_Reverse         
+Army Baseball Cap              ==>        Base.Hat_BaseballCapArmy                  
+Army Baseball Cap              ==>        Base.Hat_BaseballCapArmy_Reverse          
+Kentucky Baseball Helmet       ==>        Base.Hat_BaseballHelmet_KY                
+Riverside Rangers Baseball Helmet ==>        Base.Hat_BaseballHelmet_Rangers           
+Z Hurricanes Baseball Helmet   ==>        Base.Hat_BaseballHelmet_Z                 
+Beanie Hat                     ==>        Base.Hat_Beany                            
+Beret                          ==>        Base.Hat_Beret                            
+Army Beret                     ==>        Base.Hat_BeretArmy                        
+Bicycle Helmet                 ==>        Base.Hat_BicycleHelmet                    
+Chef Hat                       ==>        Base.Hat_ChefHat                          
+Cowboy Hat                     ==>        Base.Hat_Cowboy                           
+Crash Helmet                   ==>        Base.Hat_CrashHelmet                      
+Motorcycle Helmet              ==>        Base.Hat_CrashHelmetFULL                  
+Police Motorcycle Helmet       ==>        Base.Hat_CrashHelmet_Police               
+USA Crash Helmet               ==>        Base.Hat_CrashHelmet_Stars                
+Dust Mask                      ==>        Base.Hat_DustMask                         
+Ear Muffs                      ==>        Base.Hat_EarMuffs                         
+Ear Protectors                 ==>        Base.Hat_EarMuff_Protectors               
+Fast Food Server Hat           ==>        Base.Hat_FastFood                         
+Ice Cream Server Hat           ==>        Base.Hat_FastFood_IceCream                
+Spiffo's Server Hat            ==>        Base.Hat_FastFood_Spiffo                  
+Fedora                         ==>        Base.Hat_Fedora                           
+Black Band Fedora              ==>        Base.Hat_Fedora_Delmonte                  
+Firefighter Helmet             ==>        Base.Hat_Fireman                          
+Football Helmet                ==>        Base.Hat_FootballHelmet                   
+Gas Mask                       ==>        Base.Hat_GasMask                          
+Tartan Golf Cap                ==>        Base.Hat_GolfHat                          
+Golf Cap                       ==>        Base.Hat_GolfHatTINT                      
+Hard Hat                       ==>        Base.Hat_HardHat                          
+Mining Helmet                  ==>        Base.Hat_HardHat_Miner                    
+Hockey Helmet                  ==>        Base.Hat_HockeyHelmet                     
+Jockey Helmet - 1              ==>        Base.Hat_JockeyHelmet01                   
+Jockey Helmet - 2              ==>        Base.Hat_JockeyHelmet02                   
+Jockey Helmet - 3              ==>        Base.Hat_JockeyHelmet03                   
+Jockey Helmet - 4              ==>        Base.Hat_JockeyHelmet04                   
+Jockey Helmet - 5              ==>        Base.Hat_JockeyHelmet05                   
+Jockey Helmet - 6              ==>        Base.Hat_JockeyHelmet06                   
+Nuclear Biochemical Mask       ==>        Base.Hat_NBCmask                          
+Police Trooper Hat             ==>        Base.Hat_Police                           
+Police Deputy Hat              ==>        Base.Hat_Police_Grey                      
+Raccoon Hat                    ==>        Base.Hat_Raccoon                          
+Ranger Hat                     ==>        Base.Hat_Ranger                           
+Riding Helmet                  ==>        Base.Hat_RidingHelmet                     
+Riot Helmet                    ==>        Base.Hat_RiotHelmet                       
+Santa Hat                      ==>        Base.Hat_SantaHat                         
+Green Santa Hat                ==>        Base.Hat_SantaHatGreen                    
+Shower Cap                     ==>        Base.Hat_ShowerCap                        
+Airforce Helmet                ==>        Base.Hat_SPHhelmet                        
+Spiffo Suit Head               ==>        Base.Hat_Spiffo                           
+Summer Hat                     ==>        Base.Hat_SummerHat                        
+Sweatband                      ==>        Base.Hat_Sweatband                        
+Wedding Veil                   ==>        Base.Hat_WeddingVeil                      
+Winter Hat                     ==>        Base.Hat_WinterHat                        
+Woolly Hat                     ==>        Base.Hat_WoolyHat                         
+Bucket Hat                     ==>        Base.Hat_BucketHat                        
+Bonnie Hat                     ==>        Base.Hat_BonnieHat                        
+Bonnie Hat                     ==>        Base.Hat_BonnieHat_CamoGreen              
+Visor                          ==>        Base.Hat_VisorBlack                       
+Visor                          ==>        Base.Hat_VisorRed                         
+Visor                          ==>        Base.Hat_Visor_WhiteTINT                  
+Peaked Army Cap                ==>        Base.Hat_PeakedCapArmy                    
+Bandana (Tied)                 ==>        Base.Hat_BandanaTied                      
+Bandana (Tied)                 ==>        Base.Hat_BandanaTiedTINT                  
+Bandana (Face)                 ==>        Base.Hat_BandanaMaskTINT                  
+Bandana (Face)                 ==>        Base.Hat_BandanaMask                      
+Newspaper Hat                  ==>        Base.Hat_NewspaperHat                     
+Party Hat with Stars           ==>        Base.Hat_PartyHat_Stars                   
+Coloured Party Hat             ==>        Base.Hat_PartyHat_TINT                    
+Tin Foil Hat                   ==>        Base.Hat_TinFoilHat                       
+Hockey Goalie Mask             ==>        Base.Hat_HockeyMask                       
+Boxing Head Gear               ==>        Base.Hat_BoxingRed                        
+Boxing Head Gear               ==>        Base.Hat_BoxingBlue                       
+Bunny Ears                     ==>        Base.Hat_BunnyEarsBlack                   
+Bunny Ears                     ==>        Base.Hat_BunnyEarsWhite                   
+GoldStar Boppers               ==>        Base.Hat_GoldStar                         
+Antlers Boppers                ==>        Base.Hat_Antlers                          
+Jay Chicken Hat                ==>        Base.Hat_Jay                              
+Furry Ears                     ==>        Base.Hat_FurryEars                        
+Hat Arrow                      ==>        Base.Hat_JokeArrow                        
+Hat Knife                      ==>        Base.Hat_JokeKnife                        
+Dog tags                       ==>        Base.Necklace_DogTag                      
+Gold Necklace                  ==>        Base.Necklace_Gold                        
+Gold Necklace with Ruby Stone  ==>        Base.Necklace_GoldRuby                    
+Gold Necklace with Diamond     ==>        Base.Necklace_GoldDiamond                 
+Silver Necklace                ==>        Base.Necklace_Silver                      
+Silver Necklace with Saphire Stone ==>        Base.Necklace_SilverSapphire              
+Silver Necklace with Crucifix  ==>        Base.Necklace_SilverCrucifix              
+Silver Necklace with Diamond   ==>        Base.Necklace_SilverDiamond               
+Necklace with Crucifix         ==>        Base.Necklace_Crucifix                    
+Necklace with Ying and Yang Symbol ==>        Base.Necklace_YingYang                    
+Pearl Necklace                 ==>        Base.Necklace_Pearl                       
+Long Gold Necklace             ==>        Base.NecklaceLong_Gold                    
+Long Gold Necklace with Diamond ==>        Base.NecklaceLong_GoldDiamond             
+Long Silver Necklace           ==>        Base.NecklaceLong_Silver                  
+Long Silver Necklace with Emerald ==>        Base.NecklaceLong_SilverEmerald           
+Long Silver Necklace with Sapphire Stone ==>        Base.NecklaceLong_SilverSapphire          
+Long Silver Necklace with Diamond ==>        Base.NecklaceLong_SilverDiamond           
+Long Necklace with Amber Stone ==>        Base.NecklaceLong_Amber                   
+Black Choker                   ==>        Base.Necklace_Choker                      
+Choker with Sapphire Stone     ==>        Base.Necklace_Choker_Sapphire             
+Choker with Amber Stone        ==>        Base.Necklace_Choker_Amber                
+Choker with Diamond            ==>        Base.Necklace_Choker_Diamond              
+Gold Nose Ring                 ==>        Base.NoseRing_Gold                        
+Silver Nose Ring               ==>        Base.NoseRing_Silver                      
+Gold Nose Stud                 ==>        Base.NoseStud_Gold                        
+Silver Nose Stud               ==>        Base.NoseStud_Silver                      
+Large Gold Looped Earrings     ==>        Base.Earring_LoopLrg_Gold                 
+Large Silver Looped Earrings   ==>        Base.Earring_LoopLrg_Silver               
+Medium Silver Looped Earrings  ==>        Base.Earring_LoopMed_Silver               
+Medium Gold Looped Earrings    ==>        Base.Earring_LoopMed_Gold                 
+Small Silver Looped Earrings   ==>        Base.Earring_LoopSmall_Silver_Both        
+Small Gold Looped Earrings     ==>        Base.Earring_LoopSmall_Gold_Both          
+Small Gold Looped Earrings (Top) ==>        Base.Earring_LoopSmall_Gold_Top           
+Small Silver Looped Earrings (Top) ==>        Base.Earring_LoopSmall_Silver_Top         
+Gold Stud Earrings             ==>        Base.Earring_Stud_Gold                    
+Silver Stud Earrings           ==>        Base.Earring_Stud_Silver                  
+Sapphire Stone Earrings        ==>        Base.Earring_Stone_Sapphire               
+Emerald Earrings               ==>        Base.Earring_Stone_Emerald                
+Ruby Earrings                  ==>        Base.Earring_Stone_Ruby                   
+Pearl Earrings                 ==>        Base.Earring_Pearl                        
+Dangly Sapphire Earrings       ==>        Base.Earring_Dangly_Sapphire              
+Dangly Sapphire Earrings       ==>        Base.Earring_Dangly_Emerald               
+Dangly Ruby Earrings           ==>        Base.Earring_Dangly_Ruby                  
+Dangly Diamond Earrings        ==>        Base.Earring_Dangly_Diamond               
+Dangly Pearl Earrings          ==>        Base.Earring_Dangly_Pearl                 
+Gold Ring                      ==>        Base.Ring_Right_MiddleFinger_Gold         
+Gold Ring                      ==>        Base.Ring_Left_MiddleFinger_Gold          
+Gold Ring                      ==>        Base.Ring_Right_RingFinger_Gold           
+Gold Ring                      ==>        Base.Ring_Left_RingFinger_Gold            
+Silver Ring                    ==>        Base.Ring_Right_MiddleFinger_Silver       
+Silver Ring                    ==>        Base.Ring_Left_MiddleFinger_Silver        
+Silver Ring                    ==>        Base.Ring_Right_RingFinger_Silver         
+Silver Ring                    ==>        Base.Ring_Left_RingFinger_Silver          
+Diamond on a Silver Ring       ==>        Base.Ring_Right_MiddleFinger_SilverDiamond
+Diamond on a Silver Ring       ==>        Base.Ring_Left_MiddleFinger_SilverDiamond 
+Diamond on a Silver Ring       ==>        Base.Ring_Right_RingFinger_SilverDiamond  
+Diamond on a Silver Ring       ==>        Base.Ring_Left_RingFinger_SilverDiamond   
+Ruby on a Gold Ring            ==>        Base.Ring_Right_MiddleFinger_GoldRuby     
+Ruby on a Gold Ring            ==>        Base.Ring_Left_MiddleFinger_GoldRuby      
+Ruby on a Gold Ring            ==>        Base.Ring_Right_RingFinger_GoldRuby       
+Ruby on a Gold Ring            ==>        Base.Ring_Left_RingFinger_GoldRuby        
+Diamond on a Gold Ring         ==>        Base.Ring_Right_MiddleFinger_GoldDiamond  
+Diamond on a Gold Ring         ==>        Base.Ring_Left_MiddleFinger_GoldDiamond   
+Diamond on a Gold Ring         ==>        Base.Ring_Right_RingFinger_GoldDiamond    
+Diamond on a Gold Ring         ==>        Base.Ring_Left_RingFinger_GoldDiamond     
+Classic Wrist Watch with Black Strap ==>        Base.WristWatch_Right_ClassicBlack        
+Classic Wrist Watch with Black Strap ==>        Base.WristWatch_Left_ClassicBlack         
+Classic Wrist Watch with Brown Strap ==>        Base.WristWatch_Right_ClassicBrown        
+Classic Wrist Watch with Brown Strap ==>        Base.WristWatch_Left_ClassicBrown         
+Standard Military Issue Wrist Watch ==>        Base.WristWatch_Right_ClassicMilitary     
+Standard Military Issue Wrist Watch ==>        Base.WristWatch_Left_ClassicMilitary      
+Gold Wrist Watch               ==>        Base.WristWatch_Right_ClassicGold         
+Gold Wrist Watch               ==>        Base.WristWatch_Left_ClassicGold          
+Black Digital Watch            ==>        Base.WristWatch_Right_DigitalBlack        
+Black Digital Watch            ==>        Base.WristWatch_Left_DigitalBlack         
+Red Digital Watch              ==>        Base.WristWatch_Right_DigitalRed          
+Red Digital Watch              ==>        Base.WristWatch_Left_DigitalRed           
+Metallic Dress Style Digital Watch ==>        Base.WristWatch_Right_DigitalDress        
+Metallic Dress Style Digital Watch ==>        Base.WristWatch_Left_DigitalDress         
+Gold Bangle                    ==>        Base.Bracelet_BangleRightGold             
+Gold Bangle                    ==>        Base.Bracelet_BangleLeftGold              
+Gold Chain Bracelet            ==>        Base.Bracelet_ChainRightGold              
+Gold Chain Bracelet            ==>        Base.Bracelet_ChainLeftGold               
+Silver Bangle                  ==>        Base.Bracelet_BangleRightSilver           
+Silver Bangle                  ==>        Base.Bracelet_BangleLeftSilver            
+Silver Chain Bracelet          ==>        Base.Bracelet_ChainRightSilver            
+Silver Chain Bracelet          ==>        Base.Bracelet_ChainLeftSilver             
+Friendship Bracelet            ==>        Base.Bracelet_RightFriendshipTINT         
+Friendship Bracelet            ==>        Base.Bracelet_LeftFriendshipTINT          
+Belly Button Dangle Gold       ==>        Base.BellyButton_DangleGold               
+Belly Button Dangle Gold Ruby  ==>        Base.BellyButton_DangleGoldRuby           
+Belly Button Dangle Silver     ==>        Base.BellyButton_DangleSilver             
+Belly Button Dangle Silver Diamond ==>        Base.BellyButton_DangleSilverDiamond      
+Belly Button Ring Gold         ==>        Base.BellyButton_RingGold                 
+Belly Button Ring Gold Diamond ==>        Base.BellyButton_RingGoldDiamond          
+Belly Button Ring Gold Ruby    ==>        Base.BellyButton_RingGoldRuby             
+Belly Button Ring Silver       ==>        Base.BellyButton_RingSilver               
+Belly Button Ring Silver Amethyst ==>        Base.BellyButton_RingSilverAmethyst       
+Belly Button Ring Silver Diamond ==>        Base.BellyButton_RingSilverDiamond        
+Belly Button Ring Silver Ruby  ==>        Base.BellyButton_RingSilverRuby           
+Belly Button Stud Gold         ==>        Base.BellyButton_StudGold                 
+Belly Button Stud Gold Diamond ==>        Base.BellyButton_StudGoldDiamond          
+Belly Button Stud Silver       ==>        Base.BellyButton_StudSilver               
+Belly Button Stud Silver Diamond ==>        Base.BellyButton_StudSilverDiamond        
+Reflective Ski Sunglasses      ==>        Base.Glasses                              
+Aviator Glasses                ==>        Base.Glasses_Aviators                     
+Glasses                        ==>        Base.Glasses_Normal                       
+Reading Glasses                ==>        Base.Glasses_Reading                      
+Safety Goggles                 ==>        Base.Glasses_SafetyGoggles                
+Shooting Glasses               ==>        Base.Glasses_Shooting                     
+Ski Goggles                    ==>        Base.Glasses_SkiGoggles                   
+Sunglasses                     ==>        Base.Glasses_Sun                          
+Swimming Goggles               ==>        Base.Glasses_SwimmingGoggles              
+Eyepatch                       ==>        Base.Glasses_Eyepatch_Left                
+Eyepatch                       ==>        Base.Glasses_Eyepatch_Right               
+Fingerless Gloves              ==>        Base.Gloves_FingerlessGloves              
+Leather Gloves                 ==>        Base.Gloves_LeatherGloves                 
+Leather Gloves                 ==>        Base.Gloves_LeatherGlovesBlack            
+Long Gloves                    ==>        Base.Gloves_LongWomenGloves               
+Gloves                         ==>        Base.Gloves_WhiteTINT                     
+Bow Tie                        ==>        Base.Tie_BowTieFull                       
+Clip-on Bow Tie                ==>        Base.Tie_BowTieWorn                       
+Tie                            ==>        Base.Tie_Full                             
+Spiffo Tie                     ==>        Base.Tie_Full_Spiffo                      
+Clip-on Tie                    ==>        Base.Tie_Worn                             
+Clip-on Spiffo Tie             ==>        Base.Tie_Worn_Spiffo                      
+Scarf                          ==>        Base.Scarf_White                          
+Scarf                          ==>        Base.Scarf_StripeBlackWhite               
+Scarf                          ==>        Base.Scarf_StripeBlueWhite                
+Scarf                          ==>        Base.Scarf_StripeRedWhite                 
+Belt                           ==>        Base.Belt2                                
+Holster                        ==>        Base.HolsterSimple                        
+Double Holster                 ==>        Base.HolsterDouble                        
+Bullets Ammo Strap             ==>        Base.AmmoStrap_Bullets                    
+Shells Ammo Strap              ==>        Base.AmmoStrap_Shells                     
+Boxing Gloves                  ==>        Base.Gloves_BoxingRed                     
+Boxing Gloves                  ==>        Base.Gloves_BoxingBlue                    
+Stockings                      ==>        Base.StockingsBlack                       
+Stockings Transparent          ==>        Base.StockingsBlackTrans                  
+Stockings Semi Transparent     ==>        Base.StockingsBlackSemiTrans              
+Tights                         ==>        Base.TightsBlack                          
+Tights Transparent             ==>        Base.TightsBlackTrans                     
+Tights Semi Transparent        ==>        Base.TightsBlackSemiTrans                 
+Fishnets                       ==>        Base.TightsFishnets                       
+Stockings                      ==>        Base.StockingsWhite                       
+
+=============================================================            
+Category :  Communications                                               
+=============================================================            
+Toys-R-Mine Walkie Talkie      ==>        Base.WalkieTalkie1                        
+ValuTech Walkie Talkie         ==>        Base.WalkieTalkie2                        
+Premium Tech. Walkie Talkie    ==>        Base.WalkieTalkie3                        
+Tactical Walkie Talkie         ==>        Base.WalkieTalkie4                        
+US Army Walkie Talkie          ==>        Base.WalkieTalkie5                        
+Makeshift Walkie Talkie        ==>        Base.WalkieTalkieMakeShift                
+Premium Technologies Ham Radio ==>        Base.HamRadio1                            
+US ARMY COMM. Ham Radio        ==>        Base.HamRadio2                            
+Makeshift Ham Radio            ==>        Base.HamRadioMakeShift                    
+Premium Technologies Radio     ==>        Base.RadioRed                             
+ValuTech Radio                 ==>        Base.RadioBlack                           
+Makeshift Radio                ==>        Base.RadioMakeShift                       
+Antique Television             ==>        Base.TvAntique                            
+Premium Technologies Television ==>        Base.TvWideScreen                         
+ValuTech Television            ==>        Base.TvBlack                              
+Radio                          ==>        Base.Radio                                
+
+=============================================================            
+Category :  WaterContainer,                                              
+=============================================================            
+Tumbler                        ==>        Base.GlassTumbler                         
+
+=============================================================            
+Category :  Camping                                                      
+=============================================================            
+Campfire Materials             ==>        Base.CampfireKit                          
+Tent                           ==>        Base.CampingTent                          
+Tent Kit                       ==>        Base.CampingTentKit                       
+Kindling                       ==>        Base.FireWoodKit                          
+Notched Wooden Plank           ==>        Base.PercedWood                           
+
+=============================================================            
+Category :  Container                                                    
+=============================================================            
+Lard                           ==>        Base.Lard                                 
+Paper Bag                      ==>        Base.Paperbag_Spiffos                     
+Paper Bag                      ==>        Base.Paperbag_Jays                        
+Paper Bag                      ==>        Base.PaperBag                             
+Seed Bag                       ==>        Base.SeedBag                              
+Sewing Kit                     ==>        Base.SewingKit                            
+Key Ring                       ==>        Base.KeyRing                              
+Plastic Bag                    ==>        Base.Plasticbag                           
+Garbage Bag                    ==>        Base.Garbagebag                           
+Tote Bag                       ==>        Base.Tote                                 
+Purse                          ==>        Base.Purse                                
+Sack                           ==>        Base.EmptySandbag                         
+Suitcase                       ==>        Base.Suitcase                             
+Handbag                        ==>        Base.Handbag                              
+Toolbox                        ==>        Base.Toolbox                              
+First Aid Kit                  ==>        Base.FirstAidKit                          
+Lunchbox                       ==>        Base.Lunchbox                             
+Lunchbox                       ==>        Base.Lunchbox2                            
+Flight Case                    ==>        Base.Flightcase                           
+Guitar Case                    ==>        Base.Guitarcase                           
+Briefcase                      ==>        Base.Briefcase                            
+Cooler                         ==>        Base.Cooler                               
+Gun Case                       ==>        Base.PistolCase1                          
+Gun Case                       ==>        Base.PistolCase2                          
+Gun Case                       ==>        Base.PistolCase3                          
+Gun Case                       ==>        Base.RevolverCase1                        
+Gun Case                       ==>        Base.RevolverCase2                        
+Gun Case                       ==>        Base.RevolverCase3                        
+
+=============================================================            
+Category :  Electronics                                                  
+=============================================================            
+Battery                        ==>        Base.Battery                              
+ValuTech PortaDisc             ==>        Base.CDplayer                             
+Electric Wire                  ==>        Base.ElectricWire                         
+Radio Receiver                 ==>        Base.RadioReceiver                        
+Radio Transmitter              ==>        Base.RadioTransmitter                     
+Scanner Module                 ==>        Base.ScannerModule                        
+Cordless Phone                 ==>        Base.CordlessPhone                        
+Video Game                     ==>        Base.VideoGame                            
+Generator                      ==>        Base.Generator                            
+Electronics Scrap              ==>        Base.ElectronicsScrap                     
+Home Alarm                     ==>        Base.HomeAlarm                            
+Motion Sensor                  ==>        Base.MotionSensor                         
+Receiver                       ==>        Base.Receiver                             
+Crafted Trigger                ==>        Base.TriggerCrafted                       
+Speaker                        ==>        Base.Speaker                              
+Amplifier                      ==>        Base.Amplifier                            
+Timer                          ==>        Base.Timer                                
+Crafted Timer                  ==>        Base.TimerCrafted                         
+Light Bulb                     ==>        Base.LightBulb                            
+Red Light Bulb                 ==>        Base.LightBulbRed                         
+Green Light Bulb               ==>        Base.LightBulbGreen                       
+Blue Light Bulb                ==>        Base.LightBulbBlue                        
+Yellow Light Bulb              ==>        Base.LightBulbYellow                      
+Cyan Light Bulb                ==>        Base.LightBulbCyan                        
+Magenta Light Bulb             ==>        Base.LightBulbMagenta                     
+Orange Light Bulb              ==>        Base.LightBulbOrange                      
+Purple Light Bulb              ==>        Base.LightBulbPurple                      
+Pink Light Bulb                ==>        Base.LightBulbPink                        
+V1 Remote Controller           ==>        Base.RemoteCraftedV1                      
+V2 Remote Controller           ==>        Base.RemoteCraftedV2                      
+V3 Remote Controller           ==>        Base.RemoteCraftedV3                      
+Earbuds                        ==>        Base.Earbuds                              
+Headphones                     ==>        Base.Headphones                           
+TV Remote                      ==>        Base.Remote                               
+
+=============================================================            
+Category :  Explosives                                                   
+=============================================================            
+Molotov Cocktail               ==>        Base.Molotov                              
+Aerosol Bomb                   ==>        Base.Aerosolbomb                          
+Aerosol Bomb with Timer        ==>        Base.AerosolbombTriggered                 
+Aerosol Bomb with Sensor       ==>        Base.AerosolbombSensorV1                  
+Aerosol Bomb with Sensor       ==>        Base.AerosolbombSensorV2                  
+Aerosol Bomb with Sensor       ==>        Base.AerosolbombSensorV3                  
+Remote Aerosol Bomb            ==>        Base.AerosolbombRemote                    
+Flame Trap                     ==>        Base.FlameTrap                            
+Flame Trap with Timer          ==>        Base.FlameTrapTriggered                   
+Flame Trap with Sensor         ==>        Base.FlameTrapSensorV1                    
+Flame Trap with Sensor         ==>        Base.FlameTrapSensorV2                    
+Flame Trap with Sensor         ==>        Base.FlameTrapSensorV3                    
+Remote Flame Trap              ==>        Base.FlameTrapRemote                      
+Smoke Bomb                     ==>        Base.SmokeBomb                            
+Remote Smoke Bomb              ==>        Base.SmokeBombRemote                      
+Smoke Bomb with Sensor         ==>        Base.SmokeBombSensorV1                    
+Smoke Bomb with Sensor         ==>        Base.SmokeBombSensorV2                    
+Smoke Bomb with Sensor         ==>        Base.SmokeBombSensorV3                    
+Smoke Bomb with Timer          ==>        Base.SmokeBombTriggered                   
+Noise Maker                    ==>        Base.NoiseTrap                            
+Noise Generator with Timer     ==>        Base.NoiseTrapTriggered                   
+Noise Generator with Sensor    ==>        Base.NoiseTrapSensorV1                    
+Noise Generator with Sensor    ==>        Base.NoiseTrapSensorV2                    
+Noise Generator with Sensor    ==>        Base.NoiseTrapSensorV3                    
+Remote Noise Generator         ==>        Base.NoiseTrapRemote                      
+Pipe Bomb                      ==>        Base.PipeBomb                             
+Pipe Bomb with Timer           ==>        Base.PipeBombTriggered                    
+Pipe Bomb with Sensor          ==>        Base.PipeBombSensorV1                     
+Pipe Bomb with Sensor          ==>        Base.PipeBombSensorV2                     
+Pipe Bomb with Sensor          ==>        Base.PipeBombSensorV3                     
+Remote Pipe Bomb               ==>        Base.PipeBombRemote                       
+
+=============================================================            
+Category :  Gardening                                                    
+=============================================================            
+NPK Fertilizer                 ==>        Base.Fertilizer                           
+Empty Fertilizer               ==>        Base.FertilizerEmpty                      
+Carrot Seeds                   ==>        Base.CarrotSeed                           
+Broccoli Seeds                 ==>        Base.BroccoliSeed                         
+Radish Seeds                   ==>        Base.RedRadishSeed                        
+Strawberries Seeds             ==>        Base.StrewberrieSeed                      
+Tomato Seeds                   ==>        Base.TomatoSeed                           
+Potato Seeds                   ==>        Base.PotatoSeed                           
+Cabbage Seeds                  ==>        Base.CabbageSeed                          
+Carrot Seeds Packet            ==>        Base.CarrotBagSeed                        
+Broccoli Seeds Packet          ==>        Base.BroccoliBagSeed                      
+Radish Seeds Packet            ==>        Base.RedRadishBagSeed                     
+Strawberries Seeds Packet      ==>        Base.StrewberrieBagSeed                   
+Tomato Seeds Packet            ==>        Base.TomatoBagSeed                        
+Potato Seeds Packet            ==>        Base.PotatoBagSeed                        
+Cabbage Seeds Packet           ==>        Base.CabbageBagSeed                       
+Trowel                         ==>        Base.HandShovel                           
+Watering Can                   ==>        Base.WateredCan                           
+Mildew Spray                   ==>        Base.GardeningSprayMilk                   
+Gardening Spray Can (Empty)    ==>        Base.GardeningSprayEmpty                  
+Gardening Spray Can (Full)     ==>        Base.GardeningSprayFull                   
+Insecticide Spray              ==>        Base.GardeningSprayCigarettes             
+Opened Dog Food                ==>        Base.DogfoodOpen                          
+Shovel                         ==>        Base.Shovel                               
+Shovel                         ==>        Base.Shovel2                              
+Garden Hoe                     ==>        Base.GardenHoe                            
+Leaf Rake                      ==>        Base.LeafRake                             
+Rake                           ==>        Base.Rake                                 
+Garden Fork                    ==>        Base.GardenFork                           
+Compost Bag                    ==>        Base.CompostBag                           
+
+=============================================================            
+Category :  Weapon                                                       
+=============================================================            
+Lead Pipe                      ==>        Base.LeadPipe                             
+Nightstick                     ==>        Base.Nightstick                           
+Metal Bar                      ==>        Base.MetalBar                             
+Metal Pipe                     ==>        Base.MetalPipe                            
+Machete                        ==>        Base.Machete                              
+Chainsaw                       ==>        Base.Chainsaw                             
+Katana                         ==>        Base.Katana                               
+Hunting Knife                  ==>        Base.HuntingKnife                         
+MSR700 Rifle                   ==>        Base.VarmintRifle                         
+MSR788 Rifle                   ==>        Base.HuntingRifle                         
+JS-2000 Shotgun                ==>        Base.Shotgun                              
+Double Barrel Shotgun          ==>        Base.DoubleBarrelShotgun                  
+Sawn Off Double Barrel Shotgun ==>        Base.DoubleBarrelShotgunSawnoff           
+Sawn Off JS-2000 Shotgun       ==>        Base.ShotgunSawnoff                       
+M9 Pistol                      ==>        Base.Pistol                               
+M1911 Pistol                   ==>        Base.Pistol2                              
+D-E Pistol                     ==>        Base.Pistol3                              
+M625 Revolver                  ==>        Base.Revolver                             
+Magnum                         ==>        Base.Revolver_Long                        
+M36 Revolver                   ==>        Base.Revolver_Short                       
+M16 Assault Rifle              ==>        Base.AssaultRifle                         
+M14 Single Shot Assault Rifle  ==>        Base.AssaultRifle2                        
+Bare Hands                     ==>        Base.BareHands                            
+
+=============================================================            
+Category :  Ammo                                                         
+=============================================================            
+9mm Rounds                     ==>        Base.Bullets9mm                           
+Box of 9mm Bullets             ==>        Base.Bullets9mmBox                        
+9mm Magazine                   ==>        Base.9mmClip                              
+.45 Auto                       ==>        Base.Bullets45                            
+Box of .45 Auto Bullets        ==>        Base.Bullets45Box                         
+.45 Auto Magazine              ==>        Base.45Clip                               
+.44 Magnum Bullets             ==>        Base.Bullets44                            
+Box of .44 Magnum Bullets      ==>        Base.Bullets44Box                         
+.44 Magazine                   ==>        Base.44Clip                               
+.38 Special Bullets            ==>        Base.Bullets38                            
+Box of .38 Special Bullets     ==>        Base.Bullets38Box                         
+Shotgun Shells                 ==>        Base.ShotgunShells                        
+Box of Shotgun Shells          ==>        Base.ShotgunShellsBox                     
+.223 Ammo                      ==>        Base.223Bullets                           
+Box of .223 Bullets            ==>        Base.223Box                               
+.223 Magazine                  ==>        Base.223Clip                              
+.308 Ammo                      ==>        Base.308Bullets                           
+Box of .308 Bullets            ==>        Base.308Box                               
+.308 Magazine                  ==>        Base.308Clip                              
+.556 Ammo                      ==>        Base.556Bullets                           
+Box of .556 Bullets            ==>        Base.556Box                               
+.556 Magazine                  ==>        Base.556Clip                              
+.308 Magazine                  ==>        Base.M14Clip                              
+9mm Bullets Mold               ==>        Base.9mmBulletsMold                       
+Shotgun Shells Mold            ==>        Base.ShotgunShellsMold                    
+308 Bullets Mold               ==>        Base.308BulletsMold                       
+223 Bullets Mold               ==>        Base.223BulletsMold                       
+
+=============================================================            
+Category :  Entertainment                                                
+=============================================================            
+CD                             ==>        Base.Disc                                 
+CD                             ==>        Base.Disc_Retail                          
+VHS                            ==>        Base.VHS                                  
+VHS-Retail                     ==>        Base.VHS_Retail                           
+VHS-Home                       ==>        Base.VHS_Home                             
+
+=============================================================            
+Category :  Junk                                                         
+=============================================================            
+Belt                           ==>        Base.Belt                                 
+Picture of Kate                ==>        Base.KatePic                              
+Picture of James Garcia        ==>        Base.JamesPic                             
+Picture of Hank                ==>        Base.HankPic                              
+Picture of Marianne Brown      ==>        Base.MariannePic                          
+Picture of Chris Bailey        ==>        Base.ChrisPic                             
+Picture of Dr Cortman          ==>        Base.CortmanPic                           
+Picture of Bob                 ==>        Base.BobPic                               
+Picture of Casey-Jo            ==>        Base.CaseyPic                             
+Cigarettes                     ==>        Base.Cigarettes                           
+Money                          ==>        Base.Money                                
+Bell                           ==>        Base.Bell                                 
+Button                         ==>        Base.Button                               
+Cat Toy                        ==>        Base.CatToy                               
+Black Chess Pieces             ==>        Base.ChessBlack                           
+White Chess Pieces             ==>        Base.ChessWhite                           
+Cologne                        ==>        Base.Cologne                              
+Crayons                        ==>        Base.Crayons                              
+CreditCard                     ==>        Base.CreditCard                           
+Dog Chew Toy                   ==>        Base.DogChew                              
+Knitting Needles               ==>        Base.KnittingNeedles                      
+Leash                          ==>        Base.Leash                                
+Perfume                        ==>        Base.Perfume                              
+Pine Cone                      ==>        Base.Pinecone                             
+Rubber Band                    ==>        Base.RubberBand                           
+Toilet Paper                   ==>        Base.ToiletPaper                          
+Toy Car                        ==>        Base.ToyCar                               
+Water Dish                     ==>        Base.WaterDish                            
+Bricktoys                      ==>        Base.Bricktoys                            
+Frame                          ==>        Base.Frame                                
+Rubber Duck                    ==>        Base.Rubberducky                          
+Rubber Duck                    ==>        Base.Rubberducky2                         
+Doll                           ==>        Base.Doll                                 
+Cork                           ==>        Base.Cork                                 
+Corkscrew                      ==>        Base.Corkscrew                            
+Toothbrush                     ==>        Base.Toothbrush                           
+Toothpaste                     ==>        Base.Toothpaste                           
+Playing Cards                  ==>        Base.CardDeck                             
+Comb                           ==>        Base.Comb                                 
+Dice                           ==>        Base.Dice                                 
+Cube                           ==>        Base.Cube                                 
+Locket                         ==>        Base.Locket                               
+Razor                          ==>        Base.Razor                                
+Toy Bear                       ==>        Base.ToyBear                              
+Wallet                         ==>        Base.Wallet                               
+Wallet                         ==>        Base.Wallet2                              
+Wallet                         ==>        Base.Wallet3                              
+Wallet                         ==>        Base.Wallet4                              
+Yoyo                           ==>        Base.Yoyo                                 
+Empty Beer Can                 ==>        Base.BeerCanEmpty                         
+Empty Pop Can                  ==>        Base.PopEmpty                             
+Empty Pop Can                  ==>        Base.Pop2Empty                            
+Empty Pop Can                  ==>        Base.Pop3Empty                            
+Camera                         ==>        Base.Camera                               
+Disposable Camera              ==>        Base.CameraDisposable                     
+High-end Camera                ==>        Base.CameraExpensive                      
+Camera Film                    ==>        Base.CameraFilm                           
+Chopsticks                     ==>        Base.Chopsticks                           
+Plate                          ==>        Base.Plate                                
+Blue Plate                     ==>        Base.PlateBlue                            
+Orange Plate                   ==>        Base.PlateOrange                          
+Fancy Plate                    ==>        Base.PlateFancy                           
+Paper Napkins                  ==>        Base.PaperNapkins                         
+Straw                          ==>        Base.Straw                                
+Plastic Tray                   ==>        Base.PlasticTray                          
+Fountain Cup                   ==>        Base.FountainCup                          
+Plastic Cutting Board          ==>        Base.CuttingBoardPlastic                  
+Wooden Cutting Board           ==>        Base.CuttingBoardWooden                   
+Black Game Pieces              ==>        Base.GamePieceBlack                       
+Red Game Pieces                ==>        Base.GamePieceRed                         
+White Game Pieces              ==>        Base.GamePieceWhite                       
+Checkerboard                   ==>        Base.CheckerBoard                         
+Backgammon Board               ==>        Base.BackgammonBoard                      
+Poker Chips                    ==>        Base.PokerChips                           
+Stapler                        ==>        Base.Stapler                              
+HolePuncher                    ==>        Base.HolePuncher                          
+Bleach Bottle of Gasoline      ==>        Base.PetrolBleachBottle                   
+Broken Glass                   ==>        Base.brokenglass_1_0                      
+Broken Glass                   ==>        Base.brokenglass_1_1                      
+Broken Glass                   ==>        Base.brokenglass_1_2                      
+Broken Glass                   ==>        Base.brokenglass_1_3                      
+
+=============================================================            
+Category :  Paint                                                        
+=============================================================            
+Red Paint                      ==>        Base.PaintRed                             
+Black Paint                    ==>        Base.PaintBlack                           
+Blue Paint                     ==>        Base.PaintBlue                            
+Brown Paint                    ==>        Base.PaintBrown                           
+Cyan Paint                     ==>        Base.PaintCyan                            
+Green Paint                    ==>        Base.PaintGreen                           
+Grey Paint                     ==>        Base.PaintGrey                            
+Light Blue Paint               ==>        Base.PaintLightBlue                       
+Light Brown Paint              ==>        Base.PaintLightBrown                      
+Orange Paint                   ==>        Base.PaintOrange                          
+Pink Paint                     ==>        Base.PaintPink                            
+Purple Paint                   ==>        Base.PaintPurple                          
+Turquoise Paint                ==>        Base.PaintTurquoise                       
+White Paint                    ==>        Base.PaintWhite                           
+Yellow Paint                   ==>        Base.PaintYellow                          
+
+=============================================================            
+Category :  Hidden                                                       
+=============================================================            
+Stairs Piece                   ==>        Base.Stairs                               
+Steel Knuckle                  ==>        Base.SteelKnuckle                         
+WaterDrop                      ==>        Base.WaterDrop                            
+Metal Drum                     ==>        Base.MetalDrum                            
+
+=============================================================            
+Category :  Tool                                                         
+=============================================================            
+Needle                         ==>        Base.Needle                               
+Paint Brush                    ==>        Base.Paintbrush                           
+Garden Saw                     ==>        Base.GardenSaw                            
+Saw                            ==>        Base.Saw                                  
+Flint and Steel                ==>        Base.SteelAndFlint                        
+Tongs                          ==>        Base.Tongs                                
+Propane Torch                  ==>        Base.BlowTorch                            
+Bellows                        ==>        Base.Bellows                              
+Welder Mask                    ==>        Base.WeldingMask                          
+
+=============================================================            
+Category :  Instrument                                                   
+=============================================================            
+Saxophone                      ==>        Base.Saxophone                            
+Trumpet                        ==>        Base.Trumpet                              
+Violin                         ==>        Base.Violin                               
+Drumstick                      ==>        Base.Drumstick                            
+Flute                          ==>        Base.Flute                                
+Banjo                          ==>        Base.Banjo                                
+Acoustic Guitar                ==>        Base.GuitarAcoustic                       
+Black Electric Bass            ==>        Base.GuitarElectricBassBlack              
+Blue Electric Bass             ==>        Base.GuitarElectricBassBlue               
+Red Electric Bass              ==>        Base.GuitarElectricBassRed                
+Keytar                         ==>        Base.Keytar                               
+Black Electric Guitar          ==>        Base.GuitarElectricBlack                  
+Blue Electric Guitar           ==>        Base.GuitarElectricBlue                   
+Red Electric Guitar            ==>        Base.GuitarElectricRed                    
+
+=============================================================            
+Category :  Furniture                                                    
+=============================================================            
+Mattress                       ==>        Base.Mattress                             
+Moveable                       ==>        Base.Mov_AntiqueStove                     
+Moveable                       ==>        Base.Mov_Lamp1                            
+Moveable                       ==>        Base.Mov_Lamp2                            
+Moveable                       ==>        Base.Mov_Lamp3                            
+Moveable                       ==>        Base.Mov_Lamp4                            
+Moveable                       ==>        Base.Mov_Lamp5                            
+Moveable                       ==>        Base.Mov_Lamp6                            
+Moveable                       ==>        Base.Mov_Microwave                        
+Moveable                       ==>        Base.Mov_Microwave2                       
+Moveable                       ==>        Base.Mov_Toaster                          
+Folding Chair                  ==>        Base.Mov_FoldingChair                     
+Black Office Chair             ==>        Base.Mov_OfficeChair                      
+Gray Chair                     ==>        Base.Mov_GreyChair                        
+Wooden Bar Stool               ==>        Base.Mov_WoodenStool                      
+Plastic Chair                  ==>        Base.Mov_PlasticChair                     
+Blue Plastic Chair             ==>        Base.Mov_BluePlasticChair                 
+Metal Stool                    ==>        Base.Mov_MetalStool                       
+Mobile Tool Counter            ==>        Base.Mov_MobileCounter                    
+Green Wall Locker              ==>        Base.Mov_MetalLocker                      
+Chrome Sink                    ==>        Base.Mov_ChromeSink                       
+Dark Industrial Sink           ==>        Base.Mov_IndustrialSink                   
+White Standing Sink            ==>        Base.Mov_WhiteSink                        
+Fancy Toilet                   ==>        Base.Mov_FancyToilet                      
+Barbecue                       ==>        Base.Mov_RedBBQ                           
+Gray Oven                      ==>        Base.Mov_GreyOven                         
+Modern Oven                    ==>        Base.Mov_ModernOven                       
+Green Oven                     ==>        Base.Mov_GreenOven                        
+Red Oven                       ==>        Base.Mov_RedOven                          
+Wooden Chair                   ==>        Base.Mov_WoodenChair                      
+Dark Wooden Chair              ==>        Base.Mov_DarkWoodenChair                  
+Green Wooden Chair             ==>        Base.Mov_GreenChair                       
+Red Wooden Chair               ==>        Base.Mov_RedWoodenChair                   
+White Wooden Chair             ==>        Base.Mov_WhiteWoodenChair                 
+White Simple Chair             ==>        Base.Mov_WhiteSimpleChair                 
+Purple Wooden Chair            ==>        Base.Mov_PurpleWoodenChair                
+Pile o' Crepe Chair            ==>        Base.Mov_PileOCrepeChair                  
+White Fancy Chair              ==>        Base.Mov_FancyWhiteChair                  
+Black Fancy Chair              ==>        Base.Mov_FancyBlackChair                  
+Red Chair                      ==>        Base.Mov_RedChair                         
+Dark Blue Chair                ==>        Base.Mov_DarkBlueChair                    
+Green Comfy Chair              ==>        Base.Mov_GreenComfyChair                  
+White Lazy Chair               ==>        Base.Mov_WhiteComfyChair                  
+Blue Comfy Chair               ==>        Base.Mov_BlueComfyChair                   
+Grey Lazy Chair                ==>        Base.Mov_GreyComfyChair                   
+Brown Lazy Chair               ==>        Base.Mov_BrownComfyChair                  
+Yellow Modern Chair            ==>        Base.Mov_YellowModernChair                
+Orange Modern Chair            ==>        Base.Mov_OrangeModernChair                
+Orange Futon                   ==>        Base.Mov_OrangeFuton                      
+Blue Rattan Chair              ==>        Base.Mov_BlueRattanChair                  
+Purple Rattan Chair            ==>        Base.Mov_PurpleRattanChair                
+Fancy Low Table                ==>        Base.Mov_FancyLowTable                    
+Low Plastic Table              ==>        Base.Mov_PlasticLowTable                  
+Long Table                     ==>        Base.Mov_LongTable                        
+Small Table with Drawer        ==>        Base.Mov_SmallTable                       
+Fancy Table                    ==>        Base.Mov_FancyTable                       
+Fancy Dark Table               ==>        Base.Mov_FancyDarkTable                   
+Brown Low Table                ==>        Base.Mov_BrownLowTable                    
+Round Table                    ==>        Base.Mov_RoundTable                       
+Oak Round Table                ==>        Base.Mov_OakRoundTable                    
+Light Round Table              ==>        Base.Mov_LightRoundTable                  
+Desktop Computer               ==>        Base.Mov_DesktopComputer                  
+Cardboard Box                  ==>        Base.Mov_CardboardBox                     
+Fitness Contraption            ==>        Base.Mov_FitnessContraption               
+Mannequin                      ==>        Base.Mov_MannequinMale                    
+Mannequin                      ==>        Base.Mov_MannequinFemale                  
+Map of USA                     ==>        Base.Mov_MapUSA                           
+Stars & Stripes Flag           ==>        Base.Mov_FlagUSA                          
+USA Flag                       ==>        Base.Mov_FlagUSALarge                     
+Administrative Flag            ==>        Base.Mov_FlagAdmin                        
+Red Mobile Tool Cabinet        ==>        Base.Mov_CabinetTool                      
+Flood Lights                   ==>        Base.Mov_LightConstruction                
+Mortar Grinder                 ==>        Base.Mov_ConcreteMixer                    
+Empty Pallet                   ==>        Base.Mov_PalletEmpty                      
+Road Block                     ==>        Base.Mov_RoadBarrier                      
+PAWS Pinball Machine           ==>        Base.Mov_PinballMachine                   
+Dr. Oids Arcade Machine        ==>        Base.Mov_ArcadeMachine1                   
+Kaboom! Arcade Machine         ==>        Base.Mov_ArcadeMachine2                   
+Imekagi HK533P                 ==>        Base.Mov_TVCamera                         
+Standing Microphone            ==>        Base.Mov_Microphone                       
+Mounted Deer Trophy            ==>        Base.Mov_HuntingTrophy                    
+Wall Clock                     ==>        Base.Mov_WallClock                        
+Cork Noteboard                 ==>        Base.Mov_CorkBoard                        
+Weighing Scale                 ==>        Base.Mov_ScaleMedical                     
+Doctor Degree Certificate      ==>        Base.Mov_DegreeDoctor                     
+Surgeon Degree Certificate     ==>        Base.Mov_DegreeSurgeon                    
+Organs Poster                  ==>        Base.Mov_PosterMedical                    
+Tall Mirror                    ==>        Base.Mov_MirrorTall                       
+Wooden Framed Mirror           ==>        Base.Mov_MirrorWood                       
+Small Mirror                   ==>        Base.Mov_MirrorSmall                      
+Large Mirror                   ==>        Base.Mov_MirrorLarge                      
+Waterbeach Hills Painting      ==>        Base.Mov_PaintingGreen                    
+Incognito Library Painting     ==>        Base.Mov_PaintingLibrary                  
+Betty Painting                 ==>        Base.Mov_PaintingBetty                    
+Monica Elisa Painting          ==>        Base.Mov_PaintingElisa                    
+Dr. Oids Painting              ==>        Base.Mov_PosterDroids                     
+PAWS Poster                    ==>        Base.Mov_PosterPaws                       
+Omega Department Painting      ==>        Base.Mov_PosterOmega                      
+The Forgotten Element Poster   ==>        Base.Mov_PosterElement                    
+Red Pie Poster                 ==>        Base.Mov_PosterPieRed                     
+Blue Pie Poster                ==>        Base.Mov_PosterPieBlue                    
+Pink Pie Poster                ==>        Base.Mov_PosterPiePink                    
+Green Pie Poster               ==>        Base.Mov_PosterPieGreen                   
+Citrus Sign                    ==>        Base.Mov_SignCitrus                       
+Property Sign                  ==>        Base.Mov_SignArmy                         
+Restricted Area Sign           ==>        Base.Mov_SignRestricted                   
+Warning Sign                   ==>        Base.Mov_SignWarning                      
+Mobile Bloodbag                ==>        Base.Mov_MobileBloodbag                   
+Imitation Flamingo             ==>        Base.Mov_PinkFlamingo                     
+David the Gnome                ==>        Base.Mov_GardenGnome                      
+Coffee X-Press                 ==>        Base.Mov_CoffeeMaker                      
+Espresso Deluxe                ==>        Base.Mov_Espresso                         
+Cinema Projector               ==>        Base.Mov_Projector                        
+Mini Fridge                    ==>        Base.Mov_FridgeMini                       
+Medicine Cabinet               ==>        Base.Mov_CabinetMedical                   
+Paper-towel Dispenser          ==>        Base.Mov_TowelDispenser                   
+Hanging Toilet                 ==>        Base.Mov_Urinal                           
+Air Conditioner                ==>        Base.Mov_AirConditioner                   
+Beach Chair                    ==>        Base.Mov_BeachChair                       
+Round Gravestone               ==>        Base.Mov_GraveRound                       
+Arched Gravestone              ==>        Base.Mov_GraveArched                      
+Square Gravestone              ==>        Base.Mov_GraveSquare                      
+Battered Gravestone            ==>        Base.Mov_GraveWorn                        
+Dog House                      ==>        Base.Mov_Doghouse                         
+Vegetable Basket               ==>        Base.Mov_ShoppingBaskets                  
+Mail Box                       ==>        Base.Mov_Mailbox                          
+Round Bin                      ==>        Base.Mov_BinRound                         
+Bird Bath                      ==>        Base.Mov_Birdbath                         
+Satellite Dish                 ==>        Base.Mov_SatelliteDish                    
+Road Cone                      ==>        Base.Mov_RoadCone                         
+Road Cone                      ==>        Base.Mov_RoadCone2                        
+Hot Dog Machine                ==>        Base.Mov_HotdogMachine                    
+Popcorn Machine                ==>        Base.Mov_PopcornMachine                   
+Tabletop Soda Machine          ==>        Base.Mov_SodaMachine                      
+Shop Dispenser                 ==>        Base.Mov_NapkinDispenser                  
+Water Dispenser                ==>        Base.Mov_WaterDispenser                   
+
+=============================================================            
+Category :  Bunny                                                        
+=============================================================            
+Fluffyfoot The Bunny           ==>        Base.FluffyfootBunny                      
+
+=============================================================            
+Category :  Sports                                                       
+=============================================================            
+Pool Ball                      ==>        Base.PoolBall                             
+Badminton Racket               ==>        Base.BadmintonRacket                      
+Tennis Racket                  ==>        Base.TennisRacket                         
+DumbBell                       ==>        Base.DumbBell                             
+Golfclub                       ==>        Base.Golfclub                             
+Poolcue                        ==>        Base.Poolcue                              
+Hockey Stick                   ==>        Base.HockeyStick                          
+Ice Hockey Stick               ==>        Base.IceHockeyStick                       
+LaCrosse Stick                 ==>        Base.LaCrosseStick                        
+Canoe Paddle                   ==>        Base.CanoePadel                           
+Canoe Paddle Double            ==>        Base.CanoePadelX2                         
+Baseball Bat                   ==>        Base.BaseballBat                          
+Barbell                        ==>        Base.BarBell                              
+Baseball                       ==>        Base.Baseball                             
+Basketball                     ==>        Base.Basketball                           
+Dart                           ==>        Base.Dart                                 
+Football                       ==>        Base.Football                             
+Golf Ball                      ==>        Base.GolfBall                             
+SoccerBall                     ==>        Base.SoccerBall                           
+Tennis Ball                    ==>        Base.TennisBall                           
+Football                       ==>        Base.Football2                            
+
+=============================================================            
+Category :  Literature                                                   
+=============================================================            
+Book                           ==>        Base.Book                                 
+Empty Notebook                 ==>        Base.Notebook                             
+Doodle                         ==>        Base.Doodle                               
+Journal                        ==>        Base.Journal                              
+Magazine                       ==>        Base.Magazine                             
+TV Magazine                    ==>        Base.TVMagazine                           
+HottieZ                        ==>        Base.HottieZ                              
+Newspaper                      ==>        Base.Newspaper                            
+Sheet of Paper                 ==>        Base.SheetPaper2                          
+Comic Book                     ==>        Base.ComicBook                            
+Crossword Magazine             ==>        Base.MagazineCrossword1                   
+Crossword Magazine             ==>        Base.MagazineCrossword2                   
+Crossword Magazine             ==>        Base.MagazineCrossword3                   
+Wordsearch Magazine            ==>        Base.MagazineWordsearch1                  
+Wordsearch Magazine            ==>        Base.MagazineWordsearch2                  
+Wordsearch Magazine            ==>        Base.MagazineWordsearch3                  
+
+=============================================================            
+Category :  WaterContainer                                               
+=============================================================            
+Bowl                           ==>        Base.Bowl                                 
+Bucket                         ==>        Base.BucketEmpty                          
+Empty Pop Bottle               ==>        Base.PopBottleEmpty                       
+Empty Bottle                   ==>        Base.WaterBottleEmpty                     
+Empty Bottle                   ==>        Base.WhiskeyEmpty                         
+Empty Bottle                   ==>        Base.WineEmpty                            
+Empty Bottle                   ==>        Base.WineEmpty2                           
+Empty Bottle                   ==>        Base.BeerEmpty                            
+Empty Bottle                   ==>        Base.MayonnaiseEmpty                      
+Empty Bottle                   ==>        Base.RemouladeEmpty                       
+Empty Bleach Bottle            ==>        Base.BleachEmpty                          
+Plastic Cup                    ==>        Base.PlasticCup                           
+Wine Glass                     ==>        Base.GlassWine                            
+
+=============================================================            
+Category :  Food                                                         
+=============================================================            
+Tea Bag                        ==>        Base.Teabag                               
+Flour                          ==>        Base.Flour                                
+Cornmeal                       ==>        Base.Cornmeal                             
+Seeding Broccoli               ==>        Base.BloomingBroccoli                     
+Radish                         ==>        Base.RedRadish                            
+Strawberries                   ==>        Base.Strewberrie                          
+Tomato                         ==>        Base.Tomato                               
+Potato                         ==>        Base.Potato                               
+Cabbage                        ==>        Base.Cabbage                              
+Bacon                          ==>        Base.Bacon                                
+Bacon Rashers                  ==>        Base.BaconRashers                         
+Bacon Bits                     ==>        Base.BaconBits                            
+Mayonnaise                     ==>        Base.MayonnaiseFull                       
+Bottle with Mayonnaise (Full)  ==>        Base.MayonnaiseHalf                       
+Remoulade                      ==>        Base.RemouladeFull                        
+Bottle with Remoulade (Half)   ==>        Base.RemouladeHalf                        
+Salad                          ==>        Base.Salad                                
+Dog Food                       ==>        Base.Dogfood                              
+Opened Canned Corned Beef      ==>        Base.CannedCornedBeefOpen                 
+Opened Canned Chili            ==>        Base.CannedChiliOpen                      
+Opened Canned Spaghetti Bolognese ==>        Base.CannedBologneseOpen                  
+Opened Canned Carrots          ==>        Base.CannedCarrotsOpen                    
+Opened Canned Corn             ==>        Base.CannedCornOpen                       
+Opened Canned Mushroom Soup    ==>        Base.CannedMushroomSoupOpen               
+Opened Canned Peas             ==>        Base.CannedPeasOpen                       
+Opened Canned Potato           ==>        Base.CannedPotatoOpen                     
+Opened Canned Sardines         ==>        Base.CannedSardinesOpen                   
+Opened Canned Tomato           ==>        Base.CannedTomatoOpen                     
+Canned Corn                    ==>        Base.CannedCorn                           
+Canned Mushroom Soup           ==>        Base.CannedMushroomSoup                   
+Canned Peas                    ==>        Base.CannedPeas                           
+Canned Potato                  ==>        Base.CannedPotato2                        
+Canned Sardines                ==>        Base.CannedSardines                       
+Canned Tomato                  ==>        Base.CannedTomato2                        
+Canned Carrots                 ==>        Base.CannedCarrots2                       
+Canned Chili                   ==>        Base.CannedChili                          
+Canned Bolognese               ==>        Base.CannedBolognese                      
+Canned Corned Beef             ==>        Base.CannedCornedBeef                     
+Opened Canned Vegetable Soup   ==>        Base.TinnedSoupOpen                       
+Canned Vegetable Soup          ==>        Base.TinnedSoup                           
+Opened Tin of Tuna             ==>        Base.TunaTinOpen                          
+Opened Canned Beans            ==>        Base.OpenBeans                            
+Canned Beans                   ==>        Base.TinnedBeans                          
+Canned Tuna                    ==>        Base.TunaTin                              
+Canned Fruit Cocktail          ==>        Base.CannedFruitCocktail                  
+Opened Canned Fruit Cocktail   ==>        Base.CannedFruitCocktailOpen              
+Canned Fruit Beverage          ==>        Base.CannedFruitBeverage                  
+Opened Canned Fruit Beverage   ==>        Base.CannedFruitBeverageOpen              
+Canned Peaches                 ==>        Base.CannedPeaches                        
+Opened Canned Peaches          ==>        Base.CannedPeachesOpen                    
+Canned Pineapple               ==>        Base.CannedPineapple                      
+Opened Canned Pineapple        ==>        Base.CannedPineappleOpen                  
+Mushrooms                      ==>        Base.MushroomGeneric1                     
+Mushrooms                      ==>        Base.MushroomGeneric2                     
+Mushrooms                      ==>        Base.MushroomGeneric3                     
+Mushrooms                      ==>        Base.MushroomGeneric4                     
+Mushrooms                      ==>        Base.MushroomGeneric5                     
+Mushrooms                      ==>        Base.MushroomGeneric6                     
+Mushrooms                      ==>        Base.MushroomGeneric7                     
+Onion                          ==>        Base.Onion                                
+Lettuce                        ==>        Base.Lettuce                              
+Bell Pepper                    ==>        Base.BellPepper                           
+Avocado                        ==>        Base.Avocado                              
+Zucchini                       ==>        Base.Zucchini                             
+Peas                           ==>        Base.Peas                                 
+Carrots                        ==>        Base.Carrots                              
+Broccoli                       ==>        Base.Broccoli                             
+Corn                           ==>        Base.Corn                                 
+Eggplant                       ==>        Base.Eggplant                             
+Leek                           ==>        Base.Leek                                 
+Lemon                          ==>        Base.Lemon                                
+Berries                        ==>        Base.BerryBlack                           
+Berries                        ==>        Base.BerryBlue                            
+Berries                        ==>        Base.BerryGeneric1                        
+Berries                        ==>        Base.BerryGeneric2                        
+Berries                        ==>        Base.BerryGeneric3                        
+Berries                        ==>        Base.BerryGeneric4                        
+Berries                        ==>        Base.BerryGeneric5                        
+Berries                        ==>        Base.BerryPoisonIvy                       
+Peach                          ==>        Base.Peach                                
+Pineapple                      ==>        Base.Pineapple                            
+Cherry                         ==>        Base.Cherry                               
+Watermelon                     ==>        Base.Watermelon                           
+Watermelon Slice               ==>        Base.WatermelonSliced                     
+Watermelon Chunks              ==>        Base.WatermelonSmashed                    
+Grapes                         ==>        Base.Grapes                               
+Orange                         ==>        Base.Orange                               
+Apple                          ==>        Base.Apple                                
+Banana                         ==>        Base.Banana                               
+Catfish                        ==>        Base.Catfish                              
+Bass                           ==>        Base.Bass                                 
+Perch                          ==>        Base.Perch                                
+Crappie                        ==>        Base.Crappie                              
+Sunfish                        ==>        Base.Panfish                              
+Pike                           ==>        Base.Pike                                 
+Trout                          ==>        Base.Trout                                
+Little Bait Fish               ==>        Base.BaitFish                             
+Dead Rat                       ==>        Base.DeadRat                              
+Dead Mouse                     ==>        Base.DeadMouse                            
+Dead Rabbit                    ==>        Base.DeadRabbit                           
+Dead Squirrel                  ==>        Base.DeadSquirrel                         
+Dead Bird                      ==>        Base.DeadBird                             
+Fish Fillet                    ==>        Base.FishFillet                           
+Hotdog                         ==>        Base.Hotdog                               
+Mutton Chop                    ==>        Base.MuttonChop                           
+Pork Chop                      ==>        Base.PorkChop                             
+Rabbit Meat                    ==>        Base.Rabbitmeat                           
+Small Animal Meat              ==>        Base.Smallanimalmeat                      
+Small Bird Meat                ==>        Base.Smallbirdmeat                        
+Fried Chicken                  ==>        Base.ChickenFried                         
+Meat Patty                     ==>        Base.MeatPatty                            
+Beef Jerky                     ==>        Base.BeefJerky                            
+Corndog                        ==>        Base.Corndog                              
+Tofu                           ==>        Base.Tofu                                 
+Frog Meat                      ==>        Base.FrogMeat                             
+Steak                          ==>        Base.Steak                                
+Salmon                         ==>        Base.Salmon                               
+Egg                            ==>        Base.Egg                                  
+Chicken                        ==>        Base.Chicken                              
+Ham                            ==>        Base.Ham                                  
+Ham Slice                      ==>        Base.HamSlice                             
+Bleach Bottle With Water       ==>        Base.WaterBleachBottle                    
+Canned Evaporated Milk         ==>        Base.CannedMilk                           
+Opened Canned Evaporated Milk  ==>        Base.CannedMilkOpen                       
+Bleach                         ==>        Base.Bleach                               
+Cooking Pot with Rice          ==>        Base.WaterPotRice                         
+Cooking Pot with Pasta         ==>        Base.WaterPotPasta                        
+Hot Teacup                     ==>        Base.HotDrinkTea                          
+Hot Drink                      ==>        Base.HotDrink                             
+Hot Drink                      ==>        Base.HotDrinkRed                          
+Cold Cuppa                     ==>        Base.ColdDrinkRed                         
+Hot Drink                      ==>        Base.HotDrinkWhite                        
+Cold Cuppa                     ==>        Base.ColdDrinkWhite                       
+Hot Drink                      ==>        Base.HotDrinkSpiffo                       
+Cold Cuppa                     ==>        Base.ColdDrinkSpiffo                      
+Saucepan with Rice             ==>        Base.WaterSaucepanRice                    
+Saucepan with Pasta            ==>        Base.WaterSaucepanPasta                   
+Whiskey Bottle                 ==>        Base.WhiskeyFull                          
+Bowl of Soup                   ==>        Base.SoupBowl                             
+Bowl of Stew                   ==>        Base.StewBowl                             
+Pot of Soup                    ==>        Base.PotOfSoup                            
+Pot of Soup                    ==>        Base.PotOfSoupRecipe                      
+Pot of Stew                    ==>        Base.PotOfStew                            
+Pop                            ==>        Base.Pop                                  
+Pop                            ==>        Base.Pop2                                 
+Pop                            ==>        Base.Pop3                                 
+Orange Soda                    ==>        Base.PopBottle                            
+Hot Cuppa                      ==>        Base.Mugfull                              
+Cold Cuppa                     ==>        Base.ColdCuppa                            
+Beer Can                       ==>        Base.BeerCan                              
+Beer Bottle                    ==>        Base.BeerBottle                           
+Chardonnay                     ==>        Base.Wine                                 
+Water Bottle                   ==>        Base.WineWaterFull                        
+Pancakes                       ==>        Base.Pancakes                             
+Pancakes                       ==>        Base.PancakesCraft                        
+Pancakes                       ==>        Base.PancakesRecipe                       
+Waffles                        ==>        Base.Waffles                              
+Waffles                        ==>        Base.WafflesRecipe                        
+Ice Cream                      ==>        Base.Icecream                             
+Melted Ice Cream               ==>        Base.IcecreamMelted                       
+Candy Cane                     ==>        Base.Candycane                            
+Peppermint                     ==>        Base.Peppermint                           
+Cereal                         ==>        Base.Cereal                               
+Cereal Bowl                    ==>        Base.CerealBowl                           
+Chocalate Chip Cookie          ==>        Base.CookieChocolateChip                  
+Raspberry Shortbread           ==>        Base.CookieJelly                          
+Sunflower Seeds                ==>        Base.SunflowerSeeds                       
+Mint Candy                     ==>        Base.MintCandy                            
+Lollipop                       ==>        Base.Lollipop                             
+Candy Package                  ==>        Base.CandyPackage                         
+Instant Popcorn                ==>        Base.Popcorn                              
+Cupcake                        ==>        Base.Cupcake                              
+Chocolate                      ==>        Base.Chocolate                            
+Black Sage                     ==>        Base.BlackSage                            
+Rosehips                       ==>        Base.Rosehips                             
+Grape Leaves                   ==>        Base.GrapeLeaves                          
+Violets                        ==>        Base.Violets                              
+Wild Eggs                      ==>        Base.WildEggs                             
+Cockroach                      ==>        Base.Cockroach                            
+Cricket                        ==>        Base.Cricket                              
+Grasshopper                    ==>        Base.Grasshopper                          
+Grilled Cheese Sandwich        ==>        Base.GrilledCheese                        
+Salt                           ==>        Base.Salt                                 
+Pepper                         ==>        Base.Pepper                               
+Dough                          ==>        Base.Dough                                
+Rolled Dough                   ==>        Base.DoughRolled                          
+Baking Tray with Bread         ==>        Base.BakingTrayBread                      
+Bowl of Beans                  ==>        Base.BeanBowl                             
+Bread                          ==>        Base.Bread                                
+Butter                         ==>        Base.Butter                               
+Cheese                         ==>        Base.Cheese                               
+Cheese Sandwich                ==>        Base.CheeseSandwich                       
+Chips                          ==>        Base.Crisps                               
+Chips                          ==>        Base.Crisps2                              
+Chips                          ==>        Base.Crisps3                              
+Chips                          ==>        Base.Crisps4                              
+Peanut Butter                  ==>        Base.PeanutButter                         
+Peanut Butter Sandwich         ==>        Base.PeanutButterSandwich                 
+Pie Slice                      ==>        Base.Pie                                  
+Pumpkin Pie Slice              ==>        Base.PiePumpkin                           
+Peanuts                        ==>        Base.Peanuts                              
+Dry Ramen Noodles              ==>        Base.Ramen                                
+Bowl of Ramen Noodles          ==>        Base.RamenBowl                            
+TV Dinner                      ==>        Base.TVDinner                             
+Egg Carton                     ==>        Base.EggCarton                            
+Rice                           ==>        Base.Rice                                 
+Pasta                          ==>        Base.Pasta                                
+Pasta                          ==>        Base.PastaPan                             
+Rice                           ==>        Base.RicePan                              
+Coffee                         ==>        Base.Coffee2                              
+Tea Bag                        ==>        Base.Teabag2                              
+Pasta                          ==>        Base.PastaPot                             
+Rice                           ==>        Base.RicePot                              
+Bowl of Rice                   ==>        Base.RiceBowl                             
+Bowl of Pasta                  ==>        Base.PastaBowl                            
+Pie Preparation                ==>        Base.PiePrep                              
+Cake Preparation               ==>        Base.CakePrep                             
+Salad                          ==>        Base.FruitSalad                           
+Oatmeal                        ==>        Base.Oatmeal                              
+Mac and Cheese                 ==>        Base.Macandcheese                         
+Honey                          ==>        Base.Honey                                
+Sugar                          ==>        Base.Sugar                                
+Yogurt                         ==>        Base.Yoghurt                              
+Bread                          ==>        Base.BreadDough                           
+Cake Slice                     ==>        Base.CakeSlice                            
+Stir fry                       ==>        Base.PanFriedVegetables                   
+Roasted Vegetables             ==>        Base.PanFriedVegetables2                  
+Stir fry                       ==>        Base.GriddlePanFriedVegetables            
+Mustard                        ==>        Base.Mustard                              
+Ketchup                        ==>        Base.Ketchup                              
+Marinara                       ==>        Base.Marinara                             
+Can of Oats                    ==>        Base.OatsRaw                              
+Pie                            ==>        Base.PieWholeRaw                          
+Pie                            ==>        Base.PieWholeRawSweet                     
+Cake                           ==>        Base.CakeRaw                              
+Processed Cheese               ==>        Base.Processedcheese                      
+Modjeska                       ==>        Base.Modjeska                             
+Bread Slices                   ==>        Base.BreadSlices                          
+Toast                          ==>        Base.Toast                                
+Sandwich                       ==>        Base.Sandwich                             
+Sandwich                       ==>        Base.BaguetteSandwich                     
+Burger                         ==>        Base.Burger                               
+Burger                         ==>        Base.BurgerRecipe                         
+Pizza Slice                    ==>        Base.Pizza                                
+Pizza                          ==>        Base.PizzaWhole                           
+Pizza                          ==>        Base.PizzaRecipe                          
+Fries                          ==>        Base.Fries                                
+Pickles                        ==>        Base.Pickles                              
+Bagel                          ==>        Base.BagelPlain                           
+Poppy Bagel                    ==>        Base.BagelPoppy                           
+Sesame Bagel                   ==>        Base.BagelSesame                          
+Baguette                       ==>        Base.Baguette                             
+Baguette                       ==>        Base.BaguetteDough                        
+Black Beans                    ==>        Base.Blackbeans                           
+Burrito                        ==>        Base.Burrito                              
+Black Forest Cake Slice        ==>        Base.CakeBlackForest                      
+Carrot Cake Slice              ==>        Base.CakeCarrot                           
+Cheese Cake Slice              ==>        Base.CakeCheeseCake                       
+Chocolate Cake Slice           ==>        Base.CakeChocolate                        
+Red Velvet Cake Slice          ==>        Base.CakeRedVelvet                        
+Strawberry Cake Slice          ==>        Base.CakeStrawberryShortcake              
+Chicken Foot                   ==>        Base.ChickenFoot                          
+Chocolate Chips                ==>        Base.ChocolateChips                       
+Cocoa Powder                   ==>        Base.CocoaPowder                          
+Chocolate Cookie               ==>        Base.CookiesChocolate                     
+Oatmeal Cookie                 ==>        Base.CookiesOatmeal                       
+Shortbread Cookie              ==>        Base.CookiesShortbread                    
+Croissant                      ==>        Base.Croissant                            
+Daikon                         ==>        Base.Daikon                               
+Chocolate Doughnut             ==>        Base.DoughnutChocolate                    
+Frosted Doughnut               ==>        Base.DoughnutFrosted                      
+Jelly Doughnut                 ==>        Base.DoughnutJelly                        
+Doughnut                       ==>        Base.DoughnutPlain                        
+Edamame                        ==>        Base.Edamame                              
+Boiled Egg                     ==>        Base.EggBoiled                            
+Poached Egg                    ==>        Base.EggPoached                           
+Omelette                       ==>        Base.EggOmelette                          
+Scrambled Eggs                 ==>        Base.EggScrambled                         
+Fish Roe                       ==>        Base.FishRoe                              
+Ginger Pickled                 ==>        Base.GingerPickled                        
+Grapefruit                     ==>        Base.Grapefruit                           
+Hot sauce                      ==>        Base.Hotsauce                             
+Icing                          ==>        Base.Icing                                
+Lime                           ==>        Base.Lime                                 
+Lobster                        ==>        Base.Lobster                              
+Maki                           ==>        Base.Maki                                 
+Maple Syrup                    ==>        Base.MapleSyrup                           
+Meat Dumpling                  ==>        Base.MeatDumpling                         
+Meat Steam Bun                 ==>        Base.MeatSteamBun                         
+Minced Meat                    ==>        Base.MincedMeat                           
+Fruit Muffin                   ==>        Base.MuffinFruit                          
+Muffin                         ==>        Base.MuffinGeneric                        
+Noodle Soup                    ==>        Base.NoodleSoup                           
+Olive Oil                      ==>        Base.OilOlive                             
+Vegetable Oil                  ==>        Base.OilVegetable                         
+Onigiri                        ==>        Base.Onigiri                              
+Oysters                        ==>        Base.Oysters                              
+Pear                           ==>        Base.Pear                                 
+Habanero                       ==>        Base.PepperHabanero                       
+Jalapeno                       ==>        Base.PepperJalapeno                       
+Refried Beans                  ==>        Base.RefriedBeans                         
+Rice Paper                     ==>        Base.RicePaper                            
+Rice Vinegar                   ==>        Base.RiceVinegar                          
+Sausage                        ==>        Base.Sausage                              
+Pepperoni                      ==>        Base.Pepperoni                            
+Seaweed                        ==>        Base.Seaweed                              
+Shrimp                         ==>        Base.Shrimp                               
+Shrimp Dumpling                ==>        Base.ShrimpDumpling                       
+Fried Shrimp                   ==>        Base.ShrimpFried                          
+Fried Shrimp                   ==>        Base.ShrimpFriedCraft                     
+Soy sauce                      ==>        Base.Soysauce                             
+Spring roll                    ==>        Base.Springroll                           
+Brown Sugar                    ==>        Base.SugarBrown                           
+Egg Sushi                      ==>        Base.SushiEgg                             
+Fish Sushi                     ==>        Base.SushiFish                            
+Taco                           ==>        Base.Taco                                 
+Fried Tofu                     ==>        Base.TofuFried                            
+Tortilla                       ==>        Base.Tortilla                             
+Burrito                        ==>        Base.BurritoRecipe                        
+Tortilla Chips                 ==>        Base.TortillaChips                        
+Wasabi                         ==>        Base.Wasabi                               
+Baloney                        ==>        Base.Baloney                              
+Baloney Slices                 ==>        Base.BaloneySlice                         
+Biscuit                        ==>        Base.Biscuit                              
+Tray of Biscuits               ==>        Base.                                     
+Crackers                       ==>        Base.Crackers                             
+Cornbread                      ==>        Base.Cornbread                            
+Fried Fish                     ==>        Base.FishFried                            
+Graham Crackers                ==>        Base.GrahamCrackers                       
+Gravy                          ==>        Base.Gravy                                
+Gum                            ==>        Base.Gum                                  
+Fruit Jam                      ==>        Base.JamFruit                             
+Marmalade                      ==>        Base.JamMarmalade                         
+Marshmallows                   ==>        Base.Marshmallows                         
+Fried Oysters                  ==>        Base.OystersFried                         
+Fried Onion Rings              ==>        Base.FriedOnionRings                      
+Fried Onion Rings              ==>        Base.FriedOnionRingsCraft                 
+Onion Slices                   ==>        Base.OnionRings                           
+Salami                         ==>        Base.Salami                               
+Salami Slices                  ==>        Base.SalamiSlice                          
+Smore                          ==>        Base.Smore                                
+Squid                          ==>        Base.Squid                                
+Squid Calamari                 ==>        Base.SquidCalamari                        
+Taco Shell                     ==>        Base.TacoShell                            
+Taco                           ==>        Base.TacoRecipe                           
+Omelette                       ==>        Base.OmeletteRecipe                       
+Muffin Baking Tray             ==>        Base.BakingTray_Muffin                    
+Muffin Baking Tray             ==>        Base.BakingTray_Muffin_Recipe             
+Crayfish                       ==>        Base.Crayfish                             
+Cone                           ==>        Base.Cone                                 
+Ice Cream Cone                 ==>        Base.ConeIcecream                         
+Ice Cream Cone                 ==>        Base.ConeIcecreamToppings                 
+Melted Ice Cream Cone          ==>        Base.ConeIcecreamMelted                   
+Granola Bar                    ==>        Base.GranolaBar                           
+Mango                          ==>        Base.Mango                                
+Pumpkin                        ==>        Base.Pumpkin                              
+Jack'o'lantern                 ==>        Base.HalloweenPumpkin                     
+Chicken Nuggets                ==>        Base.ChickenNuggets                       
+Dehydrated Meat Stick          ==>        Base.DehydratedMeatStick                  
+Cinnamon Roll                  ==>        Base.CinnamonRoll                         
+Guacamole                      ==>        Base.Guacamole                            
+Black Licorice                 ==>        Base.LicoriceBlack                        
+Red Licorice                   ==>        Base.LicoriceRed                          
+Pain au Chocolat               ==>        Base.Painauchocolat                       
+Perogies                       ==>        Base.Perogies                             
+Potato Pancakes                ==>        Base.PotatoPancakes                       
+Sack of Apples                 ==>        Base.SackProduce_Apple                    
+Sack of Bell Peppers           ==>        Base.SackProduce_BellPepper               
+Sack of Broccoli               ==>        Base.SackProduce_Broccoli                 
+Sack of Cabbages               ==>        Base.SackProduce_Cabbage                  
+Sack of Carrots                ==>        Base.SackProduce_Carrot                   
+Sack of Cherries               ==>        Base.SackProduce_Cherry                   
+Sack of Corn                   ==>        Base.SackProduce_Corn                     
+Sack of Eggplants              ==>        Base.SackProduce_Eggplant                 
+Sack of Grapes                 ==>        Base.SackProduce_Grapes                   
+Sack of Leeks                  ==>        Base.SackProduce_Leek                     
+Sack of Lettuce                ==>        Base.SackProduce_Lettuce                  
+Sack of Onions                 ==>        Base.SackProduce_Onion                    
+Sack of Peaches                ==>        Base.SackProduce_Peach                    
+Sack of Pears                  ==>        Base.SackProduce_Pear                     
+Sack of Potatoes               ==>        Base.SackProduce_Potato                   
+Sack of Radishes               ==>        Base.SackProduce_RedRadish                
+Sack of Strawberries           ==>        Base.SackProduce_Strawberry               
+Sack of Tomatoes               ==>        Base.SackProduce_Tomato                   
+Dried Black Beans              ==>        Base.DriedBlackBeans                      
+Dried Chick Peas               ==>        Base.DriedChickpeas                       
+Dried Kidney Peas              ==>        Base.DriedKidneyBeans                     
+Dried Lentils                  ==>        Base.DriedLentils                         
+Dried Split Peas               ==>        Base.DriedSplitPeas                       
+Dried White Beans              ==>        Base.DriedWhiteBeans                      
+Pretzel                        ==>        Base.Pretzel                              
+Allsorts                       ==>        Base.Allsorts                             
+Bouillon Cube                  ==>        Base.BouillonCube                         
+Candy Corn                     ==>        Base.CandyCorn                            
+Acorn                          ==>        Base.Acorn                                
+Beauty Berry                   ==>        Base.BeautyBerry                          
+Dandelions                     ==>        Base.Dandelions                           
+Basil                          ==>        Base.Basil                                
+Chives                         ==>        Base.Chives                               
+Cilantro                       ==>        Base.Cilantro                             
+Oregano                        ==>        Base.Oregano                              
+Parsley                        ==>        Base.Parsley                              
+Rosemary                       ==>        Base.Rosemary                             
+Sage                           ==>        Base.Sage                                 
+Thyme                          ==>        Base.Thyme                                
+Holly Berry                    ==>        Base.HollyBerry                           
+Nettles                        ==>        Base.Nettles                              
+Ginger Root                    ==>        Base.GingerRoot                           
+Thistles                       ==>        Base.Thistle                              
+Winter Berry                   ==>        Base.WinterBerry                          
+Caterpillar                    ==>        Base.AmericanLadyCaterpillar              
+Caterpillar                    ==>        Base.BandedWoolyBearCaterpillar           
+Centipede                      ==>        Base.Centipede                            
+Centipede                      ==>        Base.Centipede2                           
+Maggots                        ==>        Base.Maggots                              
+Maggots                        ==>        Base.Maggots2                             
+Millipede                      ==>        Base.Millipede                            
+Millipede                      ==>        Base.Millipede2                           
+Caterpillar                    ==>        Base.MonarchCaterpillar                   
+Pillbug                        ==>        Base.Pillbug                              
+Caterpillar                    ==>        Base.SawflyLarva                          
+Caterpillar                    ==>        Base.SilkMothCaterpillar                  
+Caterpillar                    ==>        Base.SwallowtailCaterpillar               
+Termites                       ==>        Base.Termites                             
+Slug                           ==>        Base.Slug                                 
+Slug                           ==>        Base.Slug2                                
+Snail                          ==>        Base.Snail                                
+Lunchbag                       ==>        Base.Lunchbag                             
+Margarine                      ==>        Base.Margarine                            
+Sugar Packet                   ==>        Base.SugarPacket                          
+Candied Fruit Slices           ==>        Base.CandyFruitSlices                     
+Chocolate-Covered Coffee Beans ==>        Base.ChocolateCoveredCoffeeBeans          
+Gummy Bears                    ==>        Base.GummyBears                           
+Gummy Worms                    ==>        Base.GummyWorms                           
+Hard Candies                   ==>        Base.HardCandies                          
+Jellybeans                     ==>        Base.JellyBeans                           
+Jujubes                        ==>        Base.Jujubes                              
+Rock Candy                     ==>        Base.RockCandy                            
+Sugar Cookie                   ==>        Base.CookiesSugar                         
+Packaged Corn                  ==>        Base.CornFrozen                           
+Mixed Vegetables               ==>        Base.MixedVegetables                      
+Apple Pie Slice                ==>        Base.PieApple                             
+Blueberry Pie Slice            ==>        Base.PieBlueberry                         
+Key Lime Pie Slice             ==>        Base.PieKeyLime                           
+Lemon Meringue Pie Slice       ==>        Base.PieLemonMeringue                     
+Choco Cakes                    ==>        Base.ChocoCakes                           
+Hi His                         ==>        Base.HiHis                                
+Plonkies                       ==>        Base.Plonkies                             
+Sno Globes                     ==>        Base.SnoGlobes                            
+Quagga Cakes                   ==>        Base.QuaggaCakes                          
+Beverage                       ==>        Base.Beverage                             
+Beverage                       ==>        Base.Beverage2                            
+Chocolate Chip Cookies Baking Tray ==>        Base.CookieChocolateChipDough             
+Chocolate Cookies Baking Tray  ==>        Base.CookiesChocolateDough                
+Oatmeal Cookies Baking Tray    ==>        Base.CookiesOatmealDough                  
+Shortbread Cookies Baking Tray ==>        Base.CookiesShortbreadDough               
+Sugar Cookies Baking Tray      ==>        Base.CookiesSugarDough                    
+Wine Glass of Water            ==>        Base.GlassWineWater                       
+Tumbler of Water               ==>        Base.GlassTumblerWater                    
+in a Glass                     ==>        Base.WineInGlass                          
+Poured in a Tumbler            ==>        Base.Beer                                 
+Poured in a Glass              ==>        Base.Beer2                                
+Tomato Paste                   ==>        Base.TomatoPaste                          
+Frog                           ==>        Base.Frog                                 
+Corn Flour                     ==>        Base.Cornflour                            
+Cake Batter                    ==>        Base.CakeBatter                           
+Pie Dough                      ==>        Base.PieDough                             
+Yeast                          ==>        Base.Yeast                                
+Vinegar                        ==>        Base.Vinegar                              
+Jar of Tomatoes                ==>        Base.CannedTomato                         
+Jar of Carrots                 ==>        Base.CannedCarrots                        
+Jar of Potatoes                ==>        Base.CannedPotato                         
+Jar of Eggplants               ==>        Base.CannedEggplant                       
+Jar of Leeks                   ==>        Base.CannedLeek                           
+Jar of Red Radishes            ==>        Base.CannedRedRadish                      
+Jar of Bell Peppers            ==>        Base.CannedBellPepper                     
+Jar of Cabbage                 ==>        Base.CannedCabbage                        
+Jar of Broccoli                ==>        Base.CannedBroccoli                       
+
+=============================================================            
+Category :  Security                                                     
+=============================================================            
+Key                            ==>        Base.Key1                                 
+Key                            ==>        Base.Key2                                 
+Key                            ==>        Base.Key3                                 
+Key                            ==>        Base.Key4                                 
+Key                            ==>        Base.Key5                                 
+Combination Padlock            ==>        Base.CombinationPadlock                   
+Padlock                        ==>        Base.Padlock                              
+Key                            ==>        Base.KeyPadlock                           
+
+=============================================================            
+Category :  Mole                                                         
+=============================================================            
+Moley The Mole                 ==>        Base.MoleyMole                            
+
